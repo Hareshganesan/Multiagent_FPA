@@ -1,0 +1,679 @@
+{
+  "timestamp": "2025-11-23T12:25:07.382025",
+  "data_freshness": "fresh",
+  "total_stocks": 19,
+  "regions": {
+    "East Asia": {
+      "portfolio_size": 8,
+      "successful_market_fetches": 8,
+      "successful_earnings_fetches": 8,
+      "average_change_percent": -4.13,
+      "total_market_cap": 1052397820215296,
+      "market_data": {
+        "TSM": {
+          "current_price": 275.06,
+          "previous_close": 277.5,
+          "change": -2.44,
+          "change_percent": -0.88,
+          "volume": 20852400,
+          "today_high": 278.69,
+          "today_low": 266.82,
+          "company_name": "Taiwan Semiconductor Manufacturing Company Limited",
+          "market_cap": 1426605080576,
+          "sector": "Technology",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:10.094423",
+          "data_date": "2025-11-21"
+        },
+        "005930.KS": {
+          "current_price": 94800.0,
+          "previous_close": 100600.0,
+          "change": -5800.0,
+          "change_percent": -5.77,
+          "volume": 23103574,
+          "today_high": 96800.0,
+          "today_low": 94500.0,
+          "company_name": "Samsung Electronics Co., Ltd.",
+          "market_cap": 633840670343168,
+          "sector": "Technology",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:11.493924",
+          "data_date": "2025-11-21"
+        },
+        "0700.HK": {
+          "current_price": 610.0,
+          "previous_close": 621.0,
+          "change": -11.0,
+          "change_percent": -1.77,
+          "volume": 23732050,
+          "today_high": 615.0,
+          "today_low": 606.0,
+          "company_name": "TENCENT",
+          "market_cap": 5525152989184,
+          "sector": "Communication Services",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:12.970258",
+          "data_date": "2025-11-21"
+        },
+        "6758.T": {
+          "current_price": 4507.0,
+          "previous_close": 4461.0,
+          "change": 46.0,
+          "change_percent": 1.03,
+          "volume": 24795200,
+          "today_high": 4560.0,
+          "today_low": 4410.0,
+          "company_name": "Sony Group Corporation",
+          "market_cap": 26888087011328,
+          "sector": "Technology",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:14.531874",
+          "data_date": "2025-11-21"
+        },
+        "9888.HK": {
+          "current_price": 107.3,
+          "previous_close": 113.9,
+          "change": -6.6,
+          "change_percent": -5.79,
+          "volume": 22834313,
+          "today_high": 108.9,
+          "today_low": 105.3,
+          "company_name": "Baidu, Inc.",
+          "market_cap": 301000097792,
+          "sector": "Communication Services",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:16.009008",
+          "data_date": "2025-11-21"
+        },
+        "BABA": {
+          "current_price": 152.93,
+          "previous_close": 153.28,
+          "change": -0.35,
+          "change_percent": -0.23,
+          "volume": 16224000,
+          "today_high": 155.88,
+          "today_low": 148.64,
+          "company_name": "Alibaba Group Holding Limited",
+          "market_cap": 364890390528,
+          "sector": "Consumer Cyclical",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:17.244278",
+          "data_date": "2025-11-21"
+        },
+        "9984.T": {
+          "current_price": 17090.0,
+          "previous_close": 19180.0,
+          "change": -2090.0,
+          "change_percent": -10.9,
+          "volume": 22055000,
+          "today_high": 17825.0,
+          "today_low": 17020.0,
+          "company_name": "SoftBank Group Corp.",
+          "market_cap": 24346728857600,
+          "sector": "Communication Services",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:19.178921",
+          "data_date": "2025-11-21"
+        },
+        "000660.KS": {
+          "current_price": 521000.0,
+          "previous_close": 571000.0,
+          "change": -50000.0,
+          "change_percent": -8.76,
+          "volume": 6646712,
+          "today_high": 531000.0,
+          "today_low": 514000.0,
+          "company_name": "SK hynix Inc.",
+          "market_cap": 359704685445120,
+          "sector": "Technology",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:20.732081",
+          "data_date": "2025-11-21"
+        }
+      },
+      "earnings_data": {
+        "TSM": {
+          "company_name": "Taiwan Semiconductor Manufacturing Company Limited",
+          "last_reported_eps": 9.71,
+          "estimated_eps": 8.08,
+          "pe_ratio": 28.327497,
+          "forward_pe": 34.04208,
+          "earnings_growth": 0.391,
+          "revenue_growth": 0.303,
+          "profit_margins": 0.43287,
+          "fetch_timestamp": "2025-11-23T12:25:21.267909"
+        },
+        "005930.KS": {
+          "company_name": "Samsung Electronics Co., Ltd.",
+          "last_reported_eps": "N/A",
+          "estimated_eps": "N/A",
+          "pe_ratio": "N/A",
+          "forward_pe": 9.604763,
+          "earnings_growth": 0.251,
+          "revenue_growth": 0.088,
+          "profit_margins": 0.103140004,
+          "fetch_timestamp": "2025-11-23T12:25:22.284266"
+        },
+        "0700.HK": {
+          "company_name": "TENCENT",
+          "last_reported_eps": 24.34,
+          "estimated_eps": 27.12,
+          "pe_ratio": 25.061626,
+          "forward_pe": 22.492624,
+          "earnings_growth": 0.201,
+          "revenue_growth": 0.154,
+          "profit_margins": 0.29857,
+          "fetch_timestamp": "2025-11-23T12:25:23.216195"
+        },
+        "6758.T": {
+          "company_name": "Sony Group Corporation",
+          "last_reported_eps": 200.11,
+          "estimated_eps": 183.2,
+          "pe_ratio": 22.522612,
+          "forward_pe": 24.601528,
+          "earnings_growth": 0.078,
+          "revenue_growth": 0.046,
+          "profit_margins": 0.088999994,
+          "fetch_timestamp": "2025-11-23T12:25:23.957957"
+        },
+        "9888.HK": {
+          "company_name": "Baidu, Inc.",
+          "last_reported_eps": 10.67,
+          "estimated_eps": 11.39,
+          "pe_ratio": 10.056232,
+          "forward_pe": 9.420545,
+          "earnings_growth": "N/A",
+          "revenue_growth": -0.071,
+          "profit_margins": 0.06898,
+          "fetch_timestamp": "2025-11-23T12:25:25.057812"
+        },
+        "BABA": {
+          "company_name": "Alibaba Group Holding Limited",
+          "last_reported_eps": 8.67,
+          "estimated_eps": 9.87,
+          "pe_ratio": 17.638985,
+          "forward_pe": 15.494427,
+          "earnings_growth": 0.818,
+          "revenue_growth": 0.018,
+          "profit_margins": 0.14626001,
+          "fetch_timestamp": "2025-11-23T12:25:26.122080"
+        },
+        "9984.T": {
+          "company_name": "SoftBank Group Corp.",
+          "last_reported_eps": 2139.67,
+          "estimated_eps": 295.29,
+          "pe_ratio": 7.987213,
+          "forward_pe": 57.87531,
+          "earnings_growth": 1.177,
+          "revenue_growth": 0.084,
+          "profit_margins": 0.40903,
+          "fetch_timestamp": "2025-11-23T12:25:27.064393"
+        },
+        "000660.KS": {
+          "company_name": "SK hynix Inc.",
+          "last_reported_eps": "N/A",
+          "estimated_eps": "N/A",
+          "pe_ratio": "N/A",
+          "forward_pe": 6.6850004,
+          "earnings_growth": 1.253,
+          "revenue_growth": 0.391,
+          "profit_margins": 0.42456,
+          "fetch_timestamp": "2025-11-23T12:25:27.833863"
+        }
+      },
+      "portfolio": {
+        "TSM": {
+          "shares": 1000,
+          "avg_cost": 95.5,
+          "region": "East Asia",
+          "country": "Taiwan",
+          "sector": "Technology"
+        },
+        "005930.KS": {
+          "shares": 500,
+          "avg_cost": 71000,
+          "region": "East Asia",
+          "country": "South Korea",
+          "sector": "Technology"
+        },
+        "0700.HK": {
+          "shares": 200,
+          "avg_cost": 400.0,
+          "region": "East Asia",
+          "country": "Hong Kong",
+          "sector": "Technology"
+        },
+        "6758.T": {
+          "shares": 300,
+          "avg_cost": 4500.0,
+          "region": "East Asia",
+          "country": "Japan",
+          "sector": "Technology"
+        },
+        "9888.HK": {
+          "shares": 400,
+          "avg_cost": 120.0,
+          "region": "East Asia",
+          "country": "Hong Kong",
+          "sector": "Technology"
+        },
+        "BABA": {
+          "shares": 250,
+          "avg_cost": 85.0,
+          "region": "East Asia",
+          "country": "China",
+          "sector": "Technology"
+        },
+        "9984.T": {
+          "shares": 150,
+          "avg_cost": 5800.0,
+          "region": "East Asia",
+          "country": "Japan",
+          "sector": "Technology"
+        },
+        "000660.KS": {
+          "shares": 300,
+          "avg_cost": 128000,
+          "region": "East Asia",
+          "country": "South Korea",
+          "sector": "Technology"
+        }
+      },
+      "fetch_timestamp": "2025-11-23T12:25:27.836591"
+    },
+    "South Asia": {
+      "portfolio_size": 4,
+      "successful_market_fetches": 4,
+      "successful_earnings_fetches": 4,
+      "average_change_percent": -0.57,
+      "total_market_cap": 24718847508480,
+      "market_data": {
+        "TCS.BO": {
+          "current_price": 3150.05,
+          "previous_close": 3145.75,
+          "change": 4.3,
+          "change_percent": 0.14,
+          "volume": 242380,
+          "today_high": 3170.0,
+          "today_low": 3136.0,
+          "company_name": "Tata Consultancy Services Limited",
+          "market_cap": 11397156044800,
+          "sector": "Technology",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:29.130111",
+          "data_date": "2025-11-21"
+        },
+        "INFY.BO": {
+          "current_price": 1544.6,
+          "previous_close": 1536.75,
+          "change": 7.85,
+          "change_percent": 0.51,
+          "volume": 699948,
+          "today_high": 1551.5,
+          "today_low": 1527.5,
+          "company_name": "Infosys Limited",
+          "market_cap": 6402845704192,
+          "sector": "Technology",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:30.630543",
+          "data_date": "2025-11-21"
+        },
+        "WIPRO.BO": {
+          "current_price": 244.55,
+          "previous_close": 246.2,
+          "change": -1.65,
+          "change_percent": -0.67,
+          "volume": 102257,
+          "today_high": 247.3,
+          "today_low": 243.65,
+          "company_name": "Wipro Limited",
+          "market_cap": 2561154744320,
+          "sector": "Technology",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:31.922677",
+          "data_date": "2025-11-21"
+        },
+        "HCLTECH.BO": {
+          "current_price": 1608.3,
+          "previous_close": 1645.35,
+          "change": -37.05,
+          "change_percent": -2.25,
+          "volume": 933778,
+          "today_high": 1643.0,
+          "today_low": 1606.2,
+          "company_name": "HCL Technologies Limited",
+          "market_cap": 4357691015168,
+          "sector": "Technology",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:33.482691",
+          "data_date": "2025-11-21"
+        }
+      },
+      "earnings_data": {
+        "TCS.BO": {
+          "company_name": "Tata Consultancy Services Limited",
+          "last_reported_eps": 136.71,
+          "estimated_eps": "N/A",
+          "pe_ratio": 23.04184,
+          "forward_pe": 20.685,
+          "earnings_growth": 0.014,
+          "revenue_growth": 0.024,
+          "profit_margins": 0.19186,
+          "fetch_timestamp": "2025-11-23T12:25:33.922992"
+        },
+        "INFY.BO": {
+          "company_name": "Infosys Limited",
+          "last_reported_eps": 69.97,
+          "estimated_eps": "N/A",
+          "pe_ratio": 22.075174,
+          "forward_pe": 20.60885,
+          "earnings_growth": 0.066,
+          "revenue_growth": 0.037,
+          "profit_margins": 0.16584998,
+          "fetch_timestamp": "2025-11-23T12:25:34.991790"
+        },
+        "WIPRO.BO": {
+          "company_name": "Wipro Limited",
+          "last_reported_eps": 12.84,
+          "estimated_eps": 21.74,
+          "pe_ratio": 19.04595,
+          "forward_pe": 11.24885,
+          "earnings_growth": 0.01,
+          "revenue_growth": 0.018,
+          "profit_margins": 0.15057999,
+          "fetch_timestamp": "2025-11-23T12:25:35.916882"
+        },
+        "HCLTECH.BO": {
+          "company_name": "HCL Technologies Limited",
+          "last_reported_eps": 62.56,
+          "estimated_eps": "N/A",
+          "pe_ratio": 25.70812,
+          "forward_pe": 22.22873,
+          "earnings_growth": -0.039,
+          "revenue_growth": 0.058,
+          "profit_margins": 0.13889,
+          "fetch_timestamp": "2025-11-23T12:25:36.841952"
+        }
+      },
+      "portfolio": {
+        "TCS.BO": {
+          "shares": 100,
+          "avg_cost": 3500.0,
+          "region": "South Asia",
+          "country": "India",
+          "sector": "Technology"
+        },
+        "INFY.BO": {
+          "shares": 150,
+          "avg_cost": 1800.0,
+          "region": "South Asia",
+          "country": "India",
+          "sector": "Technology"
+        },
+        "WIPRO.BO": {
+          "shares": 200,
+          "avg_cost": 450.0,
+          "region": "South Asia",
+          "country": "India",
+          "sector": "Technology"
+        },
+        "HCLTECH.BO": {
+          "shares": 120,
+          "avg_cost": 1200.0,
+          "region": "South Asia",
+          "country": "India",
+          "sector": "Technology"
+        }
+      },
+      "fetch_timestamp": "2025-11-23T12:25:36.842953"
+    },
+    "Southeast Asia": {
+      "portfolio_size": 4,
+      "successful_market_fetches": 4,
+      "successful_earnings_fetches": 4,
+      "average_change_percent": -1.56,
+      "total_market_cap": 347707680397312,
+      "market_data": {
+        "ADVANC.BK": {
+          "current_price": 312.0,
+          "previous_close": 315.0,
+          "change": -3.0,
+          "change_percent": -0.95,
+          "volume": 4347800,
+          "today_high": 315.0,
+          "today_low": 310.0,
+          "company_name": "Advanced Info Service Public Company Limited",
+          "market_cap": 927953453056,
+          "sector": "Communication Services",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:37.506669",
+          "data_date": "2025-11-21"
+        },
+        "U11.SI": {
+          "current_price": 33.85,
+          "previous_close": 33.9,
+          "change": -0.05,
+          "change_percent": -0.15,
+          "volume": 2444100,
+          "today_high": 33.96,
+          "today_low": 33.76,
+          "company_name": "United Overseas Bank Limited",
+          "market_cap": 56197054464,
+          "sector": "Financial Services",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:38.568036",
+          "data_date": "2025-11-21"
+        },
+        "TLKM.JK": {
+          "current_price": 3500.0,
+          "previous_close": 3640.0,
+          "change": -140.0,
+          "change_percent": -3.85,
+          "volume": 93181600,
+          "today_high": 3610.0,
+          "today_low": 3460.0,
+          "company_name": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk",
+          "market_cap": 346717778083840,
+          "sector": "Communication Services",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:40.086772",
+          "data_date": "2025-11-21"
+        },
+        "5185.KL": {
+          "current_price": 2.27,
+          "previous_close": 2.3,
+          "change": -0.03,
+          "change_percent": -1.3,
+          "volume": 1804300,
+          "today_high": 2.3,
+          "today_low": 2.26,
+          "company_name": "AFFIN Bank Berhad",
+          "market_cap": 5751805952,
+          "sector": "Financial Services",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:41.433923",
+          "data_date": "2025-11-21"
+        }
+      },
+      "earnings_data": {
+        "ADVANC.BK": {
+          "company_name": "Advanced Info Service Public Company Limited",
+          "last_reported_eps": 14.41,
+          "estimated_eps": 12.59,
+          "pe_ratio": 21.65163,
+          "forward_pe": 24.781572,
+          "earnings_growth": 0.373,
+          "revenue_growth": 0.041,
+          "profit_margins": 0.19182,
+          "fetch_timestamp": "2025-11-23T12:25:41.817729"
+        },
+        "U11.SI": {
+          "company_name": "United Overseas Bank Limited",
+          "last_reported_eps": 3.5,
+          "estimated_eps": 3.71,
+          "pe_ratio": 9.671428,
+          "forward_pe": 9.123989,
+          "earnings_growth": "N/A",
+          "revenue_growth": -0.423,
+          "profit_margins": 0.40552,
+          "fetch_timestamp": "2025-11-23T12:25:42.727170"
+        },
+        "TLKM.JK": {
+          "company_name": "Perusahaan Perseroan (Persero) PT Telekomunikasi Indonesia Tbk",
+          "last_reported_eps": 219.1,
+          "estimated_eps": 261.11,
+          "pe_ratio": 15.974441,
+          "forward_pe": 13.404313,
+          "earnings_growth": -0.187,
+          "revenue_growth": -0.009,
+          "profit_margins": 0.14765,
+          "fetch_timestamp": "2025-11-23T12:25:43.626806"
+        },
+        "5185.KL": {
+          "company_name": "AFFIN Bank Berhad",
+          "last_reported_eps": 0.21,
+          "estimated_eps": 0.26,
+          "pe_ratio": 10.809524,
+          "forward_pe": 8.730769,
+          "earnings_growth": -0.057,
+          "revenue_growth": -0.067,
+          "profit_margins": 0.23021,
+          "fetch_timestamp": "2025-11-23T12:25:44.600603"
+        }
+      },
+      "portfolio": {
+        "ADVANC.BK": {
+          "shares": 1000,
+          "avg_cost": 200.0,
+          "region": "Southeast Asia",
+          "country": "Thailand",
+          "sector": "Telecommunications"
+        },
+        "U11.SI": {
+          "shares": 500,
+          "avg_cost": 3.5,
+          "region": "Southeast Asia",
+          "country": "Singapore",
+          "sector": "Technology"
+        },
+        "TLKM.JK": {
+          "shares": 2000,
+          "avg_cost": 3500.0,
+          "region": "Southeast Asia",
+          "country": "Indonesia",
+          "sector": "Telecommunications"
+        },
+        "5185.KL": {
+          "shares": 800,
+          "avg_cost": 4.2,
+          "region": "Southeast Asia",
+          "country": "Malaysia",
+          "sector": "Telecommunications"
+        }
+      },
+      "fetch_timestamp": "2025-11-23T12:25:44.601602"
+    },
+    "Western Asia": {
+      "portfolio_size": 3,
+      "successful_market_fetches": 2,
+      "successful_earnings_fetches": 3,
+      "average_change_percent": -0.78,
+      "total_market_cap": 6353454088192,
+      "market_data": {
+        "EMAAR.AE": {
+          "current_price": 13.4,
+          "previous_close": 13.55,
+          "change": -0.15,
+          "change_percent": -1.11,
+          "volume": 9850610,
+          "today_high": 13.4,
+          "today_low": 13.15,
+          "company_name": "Emaar Properties PJSC",
+          "market_cap": 118439788544,
+          "sector": "Real Estate",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:45.471357",
+          "data_date": "2025-11-21"
+        },
+        "2222.SR": {
+          "current_price": 25.78,
+          "previous_close": 25.9,
+          "change": -0.12,
+          "change_percent": -0.46,
+          "volume": 6688965,
+          "today_high": 25.88,
+          "today_low": 25.64,
+          "company_name": "Saudi Arabian Oil Company",
+          "market_cap": 6235014299648,
+          "sector": "Energy",
+          "source": "Yahoo Finance",
+          "fetch_timestamp": "2025-11-23T12:25:47.284417",
+          "data_date": "2025-11-20"
+        },
+        "TRNFP": {
+          "error": "No data available",
+          "timestamp": "2025-11-23T12:25:50.758423"
+        }
+      },
+      "earnings_data": {
+        "EMAAR.AE": {
+          "company_name": "Emaar Properties PJSC",
+          "last_reported_eps": 1.87,
+          "estimated_eps": 1.41,
+          "pe_ratio": 7.1657753,
+          "forward_pe": 9.503546,
+          "earnings_growth": 0.361,
+          "revenue_growth": 0.414,
+          "profit_margins": 0.36688998,
+          "fetch_timestamp": "2025-11-23T12:25:51.206133"
+        },
+        "2222.SR": {
+          "company_name": "Saudi Arabian Oil Company",
+          "last_reported_eps": 1.51,
+          "estimated_eps": 1.67,
+          "pe_ratio": 17.072847,
+          "forward_pe": 15.437126,
+          "earnings_growth": 0.0,
+          "revenue_growth": -0.1,
+          "profit_margins": 0.21700001,
+          "fetch_timestamp": "2025-11-23T12:25:52.694697"
+        },
+        "TRNFP": {
+          "company_name": "TRNFP",
+          "last_reported_eps": "N/A",
+          "estimated_eps": "N/A",
+          "pe_ratio": "N/A",
+          "forward_pe": "N/A",
+          "earnings_growth": "N/A",
+          "revenue_growth": "N/A",
+          "profit_margins": "N/A",
+          "fetch_timestamp": "2025-11-23T12:25:54.123540"
+        }
+      },
+      "portfolio": {
+        "EMAAR.AE": {
+          "shares": 500,
+          "avg_cost": 50.0,
+          "region": "Western Asia",
+          "country": "UAE",
+          "sector": "Real Estate/Tech"
+        },
+        "2222.SR": {
+          "shares": 100,
+          "avg_cost": 28.5,
+          "region": "Western Asia",
+          "country": "Saudi Arabia",
+          "sector": "Energy/Tech"
+        },
+        "TRNFP": {
+          "shares": 300,
+          "avg_cost": 12.0,
+          "region": "Western Asia",
+          "country": "Israel",
+          "sector": "Technology"
+        }
+      },
+      "fetch_timestamp": "2025-11-23T12:25:54.123540"
+    }
+  }
+}

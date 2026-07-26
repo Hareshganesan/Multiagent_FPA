@@ -1,0 +1,1934 @@
+{
+  "timestamp": "2025-11-23T12:32:36.559013",
+  "regions": {
+    "East Asia": {
+      "region": "East Asia",
+      "timestamp": "2025-11-23T12:32:36.559013",
+      "total_stocks": 18,
+      "stocks": {
+        "BABA": {
+          "symbol": "BABA",
+          "timestamp": "2025-11-23T12:32:47.047586",
+          "analysis_summary": {
+            "overall_sentiment": "positive",
+            "confidence": 1.0,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 3,
+            "negative": 0,
+            "neutral": 0,
+            "positive_percentage": 100.0,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 0.0
+          },
+          "articles": [
+            {
+              "title": "Alibaba Stock (BABA) Got a Price Target Boost from Top Mizuho Analyst Ahead of Q2 - TipRanks",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNZFlINS1jZFdGOFZIdVNuVGNpU0VDbVBTMTQ0d19hckVOcmxTSnRzSEJPeHRnRk9uc1FOQUlNLWNQQlhHeUtsMGVZOW1yaTBqc3E2UHBpbXdBeUNZcFl3QnZlNzdKMWJ5bEtISUFEcUxwc0h3OE9Bd0dVUmtvY2lEWG5MREJYcmFUMmdyZFhESzRCYVpxdHdCZ2FkYTRKQklndkpxd3hnRld2aEZVM1E?oc=5",
+              "published": "Thu, 20 Nov 2025 11:24:25 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxNZFlINS1jZFdGOFZIdVNuVGNpU0VDbVBTMTQ0d19hckVOcmxTSnRzSEJPeHRnRk9uc1FOQUlNLWNQQlhHeUtsMGVZOW1yaTBqc3E2UHBpbXdBeUNZcFl3QnZlNzdKMWJ5bEtISUFEcUxwc0h3OE9Bd0dVUmtvY2lEWG5MREJYcmFUMmdyZFhESzRCYVpxdHdCZ2FkYTRKQklndkpxd3hnRld2aEZVM1E?oc=5\" target=\"_blank\">Alibaba Stock (BABA) Got a Price Target Boost from Top Mizuho Analyst Ahead of Q2</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">TipRanks</font>",
+              "source": "TipRanks",
+              "symbol": "BABA",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Alibaba (BABA) Stock Slides as Market Rises: Facts to Know Before You Trade - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONHpiZl84UU5KM2dGbFNrN1J0ei1tU0RLbVFPTzhYYkh1OWNJaFhzZklOQ0d5QU9WNUluc1pQeXpzSXlnUzh0cHBlVmdldTVJcjc1cW5idkFaODRvdUJaRERyRFN3TndhZDFac0dsZVNNeTFBQnVxZm55RFhWT25Ob21lRkc?oc=5",
+              "published": "Tue, 11 Nov 2025 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxONHpiZl84UU5KM2dGbFNrN1J0ei1tU0RLbVFPTzhYYkh1OWNJaFhzZklOQ0d5QU9WNUluc1pQeXpzSXlnUzh0cHBlVmdldTVJcjc1cW5idkFaODRvdUJaRERyRFN3TndhZDFac0dsZVNNeTFBQnVxZm55RFhWT25Ob21lRkc?oc=5\" target=\"_blank\">Alibaba (BABA) Stock Slides as Market Rises: Facts to Know Before You Trade</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "BABA",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Alibaba Group Holding Limited $BABA Shares Purchased by Handelsbanken Fonder AB - MarketBeat",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcFNZSHMzNmdjSWI4akhoUnItZVN0TnVhLVhpMlFBcWlSWFBtcnJXZF9lcXVPZ0RnUzE3ZVNmN3pVSHBiVm43andJdTVHTTBrZ2wwSVQtbEtlRVhRWmljR3B1VjFFZVcxbWMzdV9ra3lmOWRzZHBCcUtPeXlkOEwyS1l0YXBlcUdpU2xycE9QbmZtbVVKTkFKZ0RnSHo0bXhkbUs2LUpmak04Rm5pc2o5NUFERjR0Y3JjdC1laU1qTkcwWjBKakJma1NwSHRFZlRXbU5laWVB?oc=5",
+              "published": "Fri, 21 Nov 2025 11:49:34 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxQcFNZSHMzNmdjSWI4akhoUnItZVN0TnVhLVhpMlFBcWlSWFBtcnJXZF9lcXVPZ0RnUzE3ZVNmN3pVSHBiVm43andJdTVHTTBrZ2wwSVQtbEtlRVhRWmljR3B1VjFFZVcxbWMzdV9ra3lmOWRzZHBCcUtPeXlkOEwyS1l0YXBlcUdpU2xycE9QbmZtbVVKTkFKZ0RnSHo0bXhkbUs2LUpmak04Rm5pc2o5NUFERjR0Y3JjdC1laU1qTkcwWjBKakJma1NwSHRFZlRXbU5laWVB?oc=5\" target=\"_blank\">Alibaba Group Holding Limited $BABA Shares Purchased by Handelsbanken Fonder AB</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+              "source": "MarketBeat",
+              "symbol": "BABA",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟢 STRONG BUY"
+        },
+        "9888.HK": {
+          "symbol": "9888.HK",
+          "timestamp": "2025-11-23T12:36:36.963103",
+          "analysis_summary": {
+            "overall_sentiment": "neutral",
+            "confidence": 0.67,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 2,
+            "positive_percentage": 33.3,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 66.7
+          },
+          "articles": [
+            {
+              "title": "Baidu shares rise on notes offering plan - Investing.com",
+              "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUE9ZXzByUUwwSFpDZXkyVVBGdURaTzVVblljdWZNZVlyUlA5N3JxMktKZEpwX3VXeXh4YjlJNV96T2pzdnRHRFBtT3JiNGo5REJnZjRKZkk3Zm42aWRDMUhvOWJJMDd4dFJwdEZ2ZHNOcGtjR3R5eU0xc0g5eWZYSkE1MGo4RUNBWE5qWWc0UnFCLXJLQ2dBY0tLTmtEdw?oc=5",
+              "published": "Sun, 07 Sep 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMingFBVV95cUxNUE9ZXzByUUwwSFpDZXkyVVBGdURaTzVVblljdWZNZVlyUlA5N3JxMktKZEpwX3VXeXh4YjlJNV96T2pzdnRHRFBtT3JiNGo5REJnZjRKZkk3Zm42aWRDMUhvOWJJMDd4dFJwdEZ2ZHNOcGtjR3R5eU0xc0g5eWZYSkE1MGo4RUNBWE5qWWc0UnFCLXJLQ2dBY0tLTmtEdw?oc=5\" target=\"_blank\">Baidu shares rise on notes offering plan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+              "source": "Investing.com",
+              "symbol": "9888.HK",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Baidu Announces Pricing of CNY4.4 Billion CNY-denominated Senior Notes - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOd2dFU1lyQjJ0dEtObnFLRUZkQXRmLUEyZ2M5aGtBUU5Wb1hfS3dJUW45eDVFUVZiYk10dVpub09COFR3dHktdUJCYXc3bDNOOVpuY19Oc0tOZ3dUN3B0em5lOWlxeS1naGE4aTVYSHRTZWFESnBJR2dqRXA0NkJxN05n?oc=5",
+              "published": "Mon, 08 Sep 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxOd2dFU1lyQjJ0dEtObnFLRUZkQXRmLUEyZ2M5aGtBUU5Wb1hfS3dJUW45eDVFUVZiYk10dVpub09COFR3dHktdUJCYXc3bDNOOVpuY19Oc0tOZ3dUN3B0em5lOWlxeS1naGE4aTVYSHRTZWFESnBJR2dqRXA0NkJxN05n?oc=5\" target=\"_blank\">Baidu Announces Pricing of CNY4.4 Billion CNY-denominated Senior Notes</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "9888.HK",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Baidu share slide wipes $2.4 billion off market value amid speculation over Xi meeting - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYkFUT2tnRDVfRGhnTUJvRHl3RDBNZEMzbUZVR2dDeHBMWWhVN0ZpRmJFdmw4VlNGam84Q0Vhb0dnMlZVVHR0V29RQzVWbEk5Qzh3RGxLQ1N0UUUtWVpkdG1uU3F2bEh2bGJ1LXN5a1I0U3ZLblM1VE9uRndId09ETTRoRWVMUUVsUzExSmg5UFZFWXNRRG81SFhzUC1rY2hrNzdScXF4ODF6bzQwTUc4cE9LeTN4Q0Fqd3ozRkNMamM?oc=5",
+              "published": "Mon, 17 Feb 2025 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYkFUT2tnRDVfRGhnTUJvRHl3RDBNZEMzbUZVR2dDeHBMWWhVN0ZpRmJFdmw4VlNGam84Q0Vhb0dnMlZVVHR0V29RQzVWbEk5Qzh3RGxLQ1N0UUUtWVpkdG1uU3F2bEh2bGJ1LXN5a1I0U3ZLblM1VE9uRndId09ETTRoRWVMUUVsUzExSmg5UFZFWXNRRG81SFhzUC1rY2hrNzdScXF4ODF6bzQwTUc4cE9LeTN4Q0Fqd3ozRkNMamM?oc=5\" target=\"_blank\">Baidu share slide wipes $2.4 billion off market value amid speculation over Xi meeting</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+              "source": "Reuters",
+              "symbol": "9888.HK",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟡 HOLD"
+        },
+        "TCEHY": {
+          "symbol": "TCEHY",
+          "timestamp": "2025-11-23T12:33:06.230631",
+          "analysis_summary": {
+            "overall_sentiment": "positive",
+            "confidence": 0.67,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 2,
+            "negative": 0,
+            "neutral": 1,
+            "positive_percentage": 66.7,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 33.3
+          },
+          "articles": [
+            {
+              "title": "Tencent (OTCMKTS:TCEHY) Stock Passes Above 200 Day Moving Average - Here's Why - MarketBeat",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQa2h1TjRDY19DWnFpWjFIUFZqNXZkNU81eF9HYk1XRUN6UEY5TmY4czNyT21Oa0lhOElRc0hsWUNhdHhqNE45dVd5dXRwWjZ3ZVhfRU9mLUNBckFNUmxOZW9LdEgxYVdWcWplbHJxX3R6WWRXajRYMV9UY0IzRmQxOXBhNC1reHl5NXM5ckNORzR2NG1FR2VpM1o5VThhRUhvUk51NEhHWlRlSHlKSHZQRlladnFkWlhiSnJqdnphN09WYS1W?oc=5",
+              "published": "Fri, 21 Nov 2025 09:51:05 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxQa2h1TjRDY19DWnFpWjFIUFZqNXZkNU81eF9HYk1XRUN6UEY5TmY4czNyT21Oa0lhOElRc0hsWUNhdHhqNE45dVd5dXRwWjZ3ZVhfRU9mLUNBckFNUmxOZW9LdEgxYVdWcWplbHJxX3R6WWRXajRYMV9UY0IzRmQxOXBhNC1reHl5NXM5ckNORzR2NG1FR2VpM1o5VThhRUhvUk51NEhHWlRlSHlKSHZQRlladnFkWlhiSnJqdnphN09WYS1W?oc=5\" target=\"_blank\">Tencent (OTCMKTS:TCEHY) Stock Passes Above 200 Day Moving Average - Here's Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+              "source": "MarketBeat",
+              "symbol": "TCEHY",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Tencent (TCEHY) Upgraded to Buy: Here's Why - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPbUJFbVQtMU1fS2dXSmhTcW5nTnpaLXBKcmZYemdoakVkYzdkM2U1NjZpVXRBYTNZVXpBX1JkYmwxZHFKSUVKQjByWlpmd2kwTi1rdlRId19sYnM1NS1tM21CY0NzaDJnWXJxUE42ZzRxWkhIRjZLMWNnVnE0QVhubTczY1k?oc=5",
+              "published": "Fri, 30 May 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPbUJFbVQtMU1fS2dXSmhTcW5nTnpaLXBKcmZYemdoakVkYzdkM2U1NjZpVXRBYTNZVXpBX1JkYmwxZHFKSUVKQjByWlpmd2kwTi1rdlRId19sYnM1NS1tM21CY0NzaDJnWXJxUE42ZzRxWkhIRjZLMWNnVnE0QVhubTczY1k?oc=5\" target=\"_blank\">Tencent (TCEHY) Upgraded to Buy: Here's Why</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "TCEHY",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "How to Buy Tencent Stock (TCEHY) - The Motley Fool",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1ZKY3UwTUZnSkd2dUZDRnpGUDBqdVFhNjZuUU1TclUtSGJnZ1VPM1ZCTzJWX1ZmN0d5YjRwOVIyV0tDYm9MZXFEM1ZNUENFWm94bUlTSW5PSmJkLTFoWklaNHZxVUJkRDNMeElDa0JLVEZDTDduQ29hQnpBbXNudUNlRXExS015dnVN?oc=5",
+              "published": "Thu, 06 Nov 2025 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1ZKY3UwTUZnSkd2dUZDRnpGUDBqdVFhNjZuUU1TclUtSGJnZ1VPM1ZCTzJWX1ZmN0d5YjRwOVIyV0tDYm9MZXFEM1ZNUENFWm94bUlTSW5PSmJkLTFoWklaNHZxVUJkRDNMeElDa0JLVEZDTDduQ29hQnpBbXNudUNlRXExS015dnVN?oc=5\" target=\"_blank\">How to Buy Tencent Stock (TCEHY)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+              "source": "The Motley Fool",
+              "symbol": "TCEHY",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟢 BUY"
+        },
+        "0700.HK": {
+          "symbol": "0700.HK",
+          "timestamp": "2025-11-23T12:36:11.926442",
+          "analysis_summary": {
+            "overall_sentiment": "positive",
+            "confidence": 0.67,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 2,
+            "negative": 0,
+            "neutral": 1,
+            "positive_percentage": 66.7,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 33.3
+          },
+          "articles": [
+            {
+              "title": "Tencent (0700.HK) Stock: Gains Over 2% on Strategic Vantage Studios Investment - parameter.io",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcTZDN3IwcDlURnZkQlBkeFZrcFl4NGVQQXJsUnZfX0g4NjRlNWdIMXZUa1g4QXZ2U1FUa3lUUHFBSkg1QTFMWFVlWExFMVpoYXV6MjAtYWdMV3hfb0IyY1l5eWl5YW9sMHBXbFJoSU1McGU0WGY1VmpQZElzN3ZMdUVVMVp3bWlKZ2Z3aDE2cGE1NzMtZzYtLXl2bGQ?oc=5",
+              "published": "Sat, 22 Nov 2025 15:33:27 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOcTZDN3IwcDlURnZkQlBkeFZrcFl4NGVQQXJsUnZfX0g4NjRlNWdIMXZUa1g4QXZ2U1FUa3lUUHFBSkg1QTFMWFVlWExFMVpoYXV6MjAtYWdMV3hfb0IyY1l5eWl5YW9sMHBXbFJoSU1McGU0WGY1VmpQZElzN3ZMdUVVMVp3bWlKZ2Z3aDE2cGE1NzMtZzYtLXl2bGQ?oc=5\" target=\"_blank\">Tencent (0700.HK) Stock: Gains Over 2% on Strategic Vantage Studios Investment</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">parameter.io</font>",
+              "source": "parameter.io",
+              "symbol": "0700.HK",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Hong Kong stocks advance as investors look for signs of easing global tensions - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE54Y0RzckI2MW50cFVTMk16a2RDNHBDUTVGVXVVTjZPaHZYb3RKOWJoa3NsY0M2UUYyLUFBcDNNbzlnVjY0VzBzYW9XYXh3SGdscUZPYURtSzVjWkJ4Zk1aSHAtd2V4ZF9QRjBvajZuNnRSOE0zdjlOa3Vfd0Q?oc=5",
+              "published": "Thu, 23 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE54Y0RzckI2MW50cFVTMk16a2RDNHBDUTVGVXVVTjZPaHZYb3RKOWJoa3NsY0M2UUYyLUFBcDNNbzlnVjY0VzBzYW9XYXh3SGdscUZPYURtSzVjWkJ4Zk1aSHAtd2V4ZF9QRjBvajZuNnRSOE0zdjlOa3Vfd0Q?oc=5\" target=\"_blank\">Hong Kong stocks advance as investors look for signs of easing global tensions</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "0700.HK",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Tencent (0700.HK) Stock: Gains 2.56% After $1.3B Multi-Tranche Bond Issuance Exceeds Target - CoinCentral",
+              "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVRHSEdja2Q5ODlWVTZrM3ZxQXNpX0VVcWJ2OXMwODQzUFRjbGs2UG5PaE5EV3QtOS12MFQ0SVBjQTQydi1KRjhwUm9tellTdm9VbTJ5V2o4bzJhMTBWNXRyeWR1QnIzVXF5TlR5WUwtdWhDZVpQZkUyVTBUYnhxdTl6LS1aOVVBR1ZZSTlvVU4xUjdrSE9seXo3b19RQzdycVVzV2Q5MllzelBUN0RCbQ?oc=5",
+              "published": "Wed, 17 Sep 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMisAFBVV95cUxNVVRHSEdja2Q5ODlWVTZrM3ZxQXNpX0VVcWJ2OXMwODQzUFRjbGs2UG5PaE5EV3QtOS12MFQ0SVBjQTQydi1KRjhwUm9tellTdm9VbTJ5V2o4bzJhMTBWNXRyeWR1QnIzVXF5TlR5WUwtdWhDZVpQZkUyVTBUYnhxdTl6LS1aOVVBR1ZZSTlvVU4xUjdrSE9seXo3b19RQzdycVVzV2Q5MllzelBUN0RCbQ?oc=5\" target=\"_blank\">Tencent (0700.HK) Stock: Gains 2.56% After $1.3B Multi-Tranche Bond Issuance Exceeds Target</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+              "source": "CoinCentral",
+              "symbol": "0700.HK",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟢 BUY"
+        },
+        "BIDU": {
+          "symbol": "BIDU",
+          "timestamp": "2025-11-23T12:33:45.676326",
+          "analysis_summary": {
+            "overall_sentiment": "positive",
+            "confidence": 1.0,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 3,
+            "negative": 0,
+            "neutral": 0,
+            "positive_percentage": 100.0,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 0.0
+          },
+          "articles": [
+            {
+              "title": "Baidu (BIDU) Stock; Company Reports 50% AI Revenue Surge Amid ‘AI Plus’ Push - CoinCentral",
+              "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPbldwaUdaMlJST3FYT1JVZDdQUDNUMno1VTBFOHR2UDc5X1dPQ3ctejhkMzZGYjhOd013aGt3WW9YOF9fS0dFa3UzeFMyLUZna25CelFjWUw5X0Y4VGtfTnJXZUJRQkxfaE5fdjdIcVhvMHlhdDRyRVo2UUZveHpybGI0Y1VYZFZoN2ktczY0MVRzSzVESGhYcnJYSQ?oc=5",
+              "published": "Thu, 20 Nov 2025 11:58:37 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMimwFBVV95cUxPbldwaUdaMlJST3FYT1JVZDdQUDNUMno1VTBFOHR2UDc5X1dPQ3ctejhkMzZGYjhOd013aGt3WW9YOF9fS0dFa3UzeFMyLUZna25CelFjWUw5X0Y4VGtfTnJXZUJRQkxfaE5fdjdIcVhvMHlhdDRyRVo2UUZveHpybGI0Y1VYZFZoN2ktczY0MVRzSzVESGhYcnJYSQ?oc=5\" target=\"_blank\">Baidu (BIDU) Stock; Company Reports 50% AI Revenue Surge Amid ‘AI Plus’ Push</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+              "source": "CoinCentral",
+              "symbol": "BIDU",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Bank of America Forecasts Strong Price Appreciation for Baidu (NASDAQ:BIDU) Stock - MarketBeat",
+              "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPLUUtZGgtVDRfR3hYU3QzM3dTQTMzRmd6SXlwcU4tTUxueUVrMGJxcmRNejRQZnlvcS1jcGE3OXFuOHpTWEUtWFM5TmpaTXcxOGdCY0x0RnZRMG4yMHNUOFk0YTcydFJvT0tfNmI0ZzJMS1lpaDExaXRab2hkam9fUmF4aVBudGptZUI1dVpmV25rREJPX25wMWNaRUNHQWhhSnZ3a2ZBZXlaUFNJVEo0bXRHREI3ejZ1Ukc3OXRLMG1nWHdfU0NFdTJPWms?oc=5",
+              "published": "Thu, 20 Nov 2025 18:15:48 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMizAFBVV95cUxPLUUtZGgtVDRfR3hYU3QzM3dTQTMzRmd6SXlwcU4tTUxueUVrMGJxcmRNejRQZnlvcS1jcGE3OXFuOHpTWEUtWFM5TmpaTXcxOGdCY0x0RnZRMG4yMHNUOFk0YTcydFJvT0tfNmI0ZzJMS1lpaDExaXRab2hkam9fUmF4aVBudGptZUI1dVpmV25rREJPX25wMWNaRUNHQWhhSnZ3a2ZBZXlaUFNJVEo0bXRHREI3ejZ1Ukc3OXRLMG1nWHdfU0NFdTJPWms?oc=5\" target=\"_blank\">Bank of America Forecasts Strong Price Appreciation for Baidu (NASDAQ:BIDU) Stock</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+              "source": "MarketBeat",
+              "symbol": "BIDU",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "How BIDU stock compares to market leaders - Layoff News & Verified Momentum Stock Alerts - newser.com",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkF4SzhwTVVjNnFNT0o3cUJNQVo2R0c2Tml3bVZHaVZMMEhjajNnR05udENoaTM1eVVjLVozNEh6MnlsVzRwLThNNkJrNXYybU82VWVEUUZGWlZxRXN3eVdKNndZcTNnZ2lXTjZuMDVFTTRTcmF0cERvOVZ4NzMzWWNR?oc=5",
+              "published": "Wed, 19 Nov 2025 20:16:12 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNMkF4SzhwTVVjNnFNT0o3cUJNQVo2R0c2Tml3bVZHaVZMMEhjajNnR05udENoaTM1eVVjLVozNEh6MnlsVzRwLThNNkJrNXYybU82VWVEUUZGWlZxRXN3eVdKNndZcTNnZ2lXTjZuMDVFTTRTcmF0cERvOVZ4NzMzWWNR?oc=5\" target=\"_blank\">How BIDU stock compares to market leaders - Layoff News & Verified Momentum Stock Alerts</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newser.com</font>",
+              "source": "newser.com",
+              "symbol": "BIDU",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟢 STRONG BUY"
+        },
+        "6758.T": {
+          "symbol": "6758.T",
+          "timestamp": "2025-11-23T12:33:53.891529",
+          "analysis_summary": {
+            "overall_sentiment": "positive",
+            "confidence": 1.0,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 3,
+            "negative": 0,
+            "neutral": 0,
+            "positive_percentage": 100.0,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 0.0
+          },
+          "articles": [
+            {
+              "title": "Should Sony Group's (TSE:6758) Stock Moves and AI Sensor Advances Prompt Investor Reassessment? - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9iMFJLQnJIMFRoMkY2aEFKcElFZ2FGWTBlUm1KbWZkUTBsQ1l5UlVHYm5fSFcyYTBwUWFvbHBTdFJrbW93cXBGTGgxWUhxbmt6aU1tT0prNDFZTFhzLW1LYVRLa0xIQkt2XzJ2S2F3OHhlRjNscWNJQkNFckU?oc=5",
+              "published": "Thu, 06 Nov 2025 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE9iMFJLQnJIMFRoMkY2aEFKcElFZ2FGWTBlUm1KbWZkUTBsQ1l5UlVHYm5fSFcyYTBwUWFvbHBTdFJrbW93cXBGTGgxWUhxbmt6aU1tT0prNDFZTFhzLW1LYVRLa0xIQkt2XzJ2S2F3OHhlRjNscWNJQkNFckU?oc=5\" target=\"_blank\">Should Sony Group's (TSE:6758) Stock Moves and AI Sensor Advances Prompt Investor Reassessment?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "6758.T",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Sony Financial Group shares jump 15% in trading debut as Asia markets mostly rise - CNBC",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTUhFck9wSHhlSTJXNkE3R1FhdzBfWHpjYkZHbUlIRk1oTEFxbHlZclF2bm1PMUt5cUhjc1Y3NTEzR2xFVUg1TTBySG1DWmc1cXJEeGxMbE9Gc01zSHZDVDJxM2lBaTZCLTc3MWNjR1ZsbXZPVFRmamhBOGx2ZHd0Y1pJUlJuNmRwSXfSAY8BQVVfeXFMTTgzWno5RUppbTFuZWx2YWtIRTB5eWk0RGRmc2pZVHp4X3BySndEVnlfcTZWVHRlUm9nNUlxQVlXN0VseVV6bEFoSkpfUW9ybkdRUDQwLWY5XzlNN1JpeWlRcDJUb1M0NS1RTjJUTkdOTE9EbTVrWW5lXzZWVnI4UWFjWVJkWkNiX3NoZkRNXzA?oc=5",
+              "published": "Sun, 28 Sep 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPTUhFck9wSHhlSTJXNkE3R1FhdzBfWHpjYkZHbUlIRk1oTEFxbHlZclF2bm1PMUt5cUhjc1Y3NTEzR2xFVUg1TTBySG1DWmc1cXJEeGxMbE9Gc01zSHZDVDJxM2lBaTZCLTc3MWNjR1ZsbXZPVFRmamhBOGx2ZHd0Y1pJUlJuNmRwSXfSAY8BQVVfeXFMTTgzWno5RUppbTFuZWx2YWtIRTB5eWk0RGRmc2pZVHp4X3BySndEVnlfcTZWVHRlUm9nNUlxQVlXN0VseVV6bEFoSkpfUW9ybkdRUDQwLWY5XzlNN1JpeWlRcDJUb1M0NS1RTjJUTkdOTE9EbTVrWW5lXzZWVnI4UWFjWVJkWkNiX3NoZkRNXzA?oc=5\" target=\"_blank\">Sony Financial Group shares jump 15% in trading debut as Asia markets mostly rise</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+              "source": "CNBC",
+              "symbol": "6758.T",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Sony Group (TSE:6758): Evaluating Valuation as Automotive Sensor Collaboration with Smart Eye Drives New Growth Opportunities - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPTG5iV0NzRDBiZjkzVHM1VERvVzZIeEdvaTRVaGJ4T0JfYlFISHppM1ZVS3RLcTUzWXc2R2NhSHRNNkhzQVVMN18yMk1kTDZzYVhSczdyR2VBNjcwa1dyNUNSRXNSX1JtTXFtbjJ2WXdFOFkxYV8zSHJEQ192WGxrT0J3?oc=5",
+              "published": "Tue, 07 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxPTG5iV0NzRDBiZjkzVHM1VERvVzZIeEdvaTRVaGJ4T0JfYlFISHppM1ZVS3RLcTUzWXc2R2NhSHRNNkhzQVVMN18yMk1kTDZzYVhSczdyR2VBNjcwa1dyNUNSRXNSX1JtTXFtbjJ2WXdFOFkxYV8zSHJEQ192WGxrT0J3?oc=5\" target=\"_blank\">Sony Group (TSE:6758): Evaluating Valuation as Automotive Sensor Collaboration with Smart Eye Drives New Growth Opportunities</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "6758.T",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟢 STRONG BUY"
+        },
+        "6501.T": {
+          "symbol": "6501.T",
+          "timestamp": "2025-11-23T12:34:02.167310",
+          "analysis_summary": {
+            "overall_sentiment": "positive",
+            "confidence": 0.67,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 2,
+            "negative": 0,
+            "neutral": 1,
+            "positive_percentage": 66.7,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 33.3
+          },
+          "articles": [
+            {
+              "title": "Hitachi (TSE:6501): Exploring Valuation After Recent Share Price Surge - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFVMWEplSkF1M1pOaUROeVpaZUNQMVFtXzUzbTg5QTZNbjk1VHh1TU14Y0FQM3ljZ28wOGc4b1lEWWpDbTh4dUNXYmlyZUNQTHd6VGZHVEVEYzB5anpxWWVHQnR3TlIwYklCSWwwbjFuUlYxWk5pMWUtNmZlaWRpeGdwQ1BhMnZackE?oc=5",
+              "published": "Wed, 29 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxPTFVMWEplSkF1M1pOaUROeVpaZUNQMVFtXzUzbTg5QTZNbjk1VHh1TU14Y0FQM3ljZ28wOGc4b1lEWWpDbTh4dUNXYmlyZUNQTHd6VGZHVEVEYzB5anpxWWVHQnR3TlIwYklCSWwwbjFuUlYxWk5pMWUtNmZlaWRpeGdwQ1BhMnZackE?oc=5\" target=\"_blank\">Hitachi (TSE:6501): Exploring Valuation After Recent Share Price Surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "6501.T",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "6501 News Today: Hitachi Shares Surge on Major AI Technology Expansion - Meyka",
+              "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1hacU1HNjR5TVYyZHZ5cU9MOWdJdnJqVUpQT2RRcFVzVDgtak1QTGxaV3J0eW9XbG9Tb3JXckFhQUZLMzFQVld2dzBoZmVTVURJSjduTFREVnY0bnpiTEdBR01HVnNjdHBRdGx0QnN0TWhVVnV6ZnUtT0VHWlNDOHZaeUJiVTJZb29WVHBzVFY0eWNmNGd3Tmp4alhZNjQ?oc=5",
+              "published": "Fri, 03 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMinwFBVV95cUxPX1hacU1HNjR5TVYyZHZ5cU9MOWdJdnJqVUpQT2RRcFVzVDgtak1QTGxaV3J0eW9XbG9Tb3JXckFhQUZLMzFQVld2dzBoZmVTVURJSjduTFREVnY0bnpiTEdBR01HVnNjdHBRdGx0QnN0TWhVVnV6ZnUtT0VHWlNDOHZaeUJiVTJZb29WVHBzVFY0eWNmNGd3Tmp4alhZNjQ?oc=5\" target=\"_blank\">6501 News Today: Hitachi Shares Surge on Major AI Technology Expansion</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Meyka</font>",
+              "source": "Meyka",
+              "symbol": "6501.T",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "A Look at Hitachi’s (TSE:6501) Valuation - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNWEZMSmMtMGZZbXNlbVFiNzNtSndlSUE2WXpTbkNrS3Utb25MODZ0c1QyeWdfdzktRFpGbWlPa3UyeWEyZnNCOVNqZHFBc3NhZEVCeDFhTU00YmlhLXNpS3htUTQ5Z3JfVG9TV0RPMFB0RVpUaWJmM0Z6ZExZSFdLQVgtaw?oc=5",
+              "published": "Thu, 13 Nov 2025 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxNWEZMSmMtMGZZbXNlbVFiNzNtSndlSUE2WXpTbkNrS3Utb25MODZ0c1QyeWdfdzktRFpGbWlPa3UyeWEyZnNCOVNqZHFBc3NhZEVCeDFhTU00YmlhLXNpS3htUTQ5Z3JfVG9TV0RPMFB0RVpUaWJmM0Z6ZExZSFdLQVgtaw?oc=5\" target=\"_blank\">A Look at Hitachi’s (TSE:6501) Valuation</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "6501.T",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟢 BUY"
+        },
+        "9984.T": {
+          "symbol": "9984.T",
+          "timestamp": "2025-11-23T12:34:10.716206",
+          "analysis_summary": {
+            "overall_sentiment": "neutral",
+            "confidence": 0.67,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 1,
+            "neutral": 2,
+            "positive_percentage": 0.0,
+            "negative_percentage": 33.3,
+            "neutral_percentage": 66.7
+          },
+          "articles": [
+            {
+              "title": "CNBC Daily Open: Investors suffer from whiplash as AI stocks gyrate - CNBC",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXg1U0lNYmZFUFRtTmRMSnRjTW9yZVU0WDB5TFloX0xENHFsQlhXbEhuWUtBT09YSmp1LUsxY2Z4cTlvSkJaRjhTM2VfbkFKdjI2ejc5OTVvSGROYS1XSm1sbGVzNVItdkpobEozUlFTb0F3NkZ5WDR4SUR6aWlkVjZlSFhlUkd4Q3o5QmlEa3FWcExFbjFKenFtYWRnVTJqZDFiNC1R0gGrAUFVX3lxTFBEZDdkWndMcmJBQVlaNTVHcHpiUWJEaWlWMU05c3QzZ0kyd2NVNXFUVTJNQ0lnU0pWZTRRckRGRkg4Sk1KWkcyZTVwN2RQWkxJR0pJbS1WZW9FelpHWnBlMFN1QnFGYjRVZTlERHd2eDhCZGZ0YUVyZkZ4ZHhIT2c5Vi1GSHZHNjRsb1ZSTXA1WmJJdExOWXZ6SkdKYTE3LWNyb1lxM1Z4aUxWZw?oc=5",
+              "published": "Fri, 21 Nov 2025 07:30:01 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxNeXg1U0lNYmZFUFRtTmRMSnRjTW9yZVU0WDB5TFloX0xENHFsQlhXbEhuWUtBT09YSmp1LUsxY2Z4cTlvSkJaRjhTM2VfbkFKdjI2ejc5OTVvSGROYS1XSm1sbGVzNVItdkpobEozUlFTb0F3NkZ5WDR4SUR6aWlkVjZlSFhlUkd4Q3o5QmlEa3FWcExFbjFKenFtYWRnVTJqZDFiNC1R0gGrAUFVX3lxTFBEZDdkWndMcmJBQVlaNTVHcHpiUWJEaWlWMU05c3QzZ0kyd2NVNXFUVTJNQ0lnU0pWZTRRckRGRkg4Sk1KWkcyZTVwN2RQWkxJR0pJbS1WZW9FelpHWnBlMFN1QnFGYjRVZTlERHd2eDhCZGZ0YUVyZkZ4ZHhIT2c5Vi1GSHZHNjRsb1ZSTXA1WmJJdExOWXZ6SkdKYTE3LWNyb1lxM1Z4aUxWZw?oc=5\" target=\"_blank\">CNBC Daily Open: Investors suffer from whiplash as AI stocks gyrate</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+              "source": "CNBC",
+              "symbol": "9984.T",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "SoftBank Just Unloaded Its Stake in Nvidia for $5.8 Billion Right Before the Chip King Is Scheduled to Report Earnings. Does Its Billionaire CEO Masayoshi Son Know Something the Rest of Wall Street Doesn't? - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS3lDNVVucjRDQ1p1eEdaVndWVUhSaFRmWndiR0hQSFZCdUJvTmVpOENxUTlKbjhaaFprbGE3Y21kamk5aE14ZG0wTkFMSGt5Qm9DTkdBVTBqbEI5UGpwVmJqUU82eHNkU0tQR2J5S3RqRUVKbmJMOFlXb096VzlpTmd1U1ZOd2NT?oc=5",
+              "published": "Mon, 17 Nov 2025 13:03:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxNS3lDNVVucjRDQ1p1eEdaVndWVUhSaFRmWndiR0hQSFZCdUJvTmVpOENxUTlKbjhaaFprbGE3Y21kamk5aE14ZG0wTkFMSGt5Qm9DTkdBVTBqbEI5UGpwVmJqUU82eHNkU0tQR2J5S3RqRUVKbmJMOFlXb096VzlpTmd1U1ZOd2NT?oc=5\" target=\"_blank\">SoftBank Just Unloaded Its Stake in Nvidia for $5.8 Billion Right Before the Chip King Is Scheduled to Report Earnings. Does Its Billionaire CEO Masayoshi Son Know Something the Rest of Wall Street Doesn't?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "9984.T",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "SoftBank (9984.T) Stock: Falls 6.9% as AI Selloff Wipes $50 Billion in Market Value - CoinCentral",
+              "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQa090aXZPODQtRGxCb2h4aDQxeWN4SW9kWHNXZjFQNkhaMWZadWJMd3ZaSi1TSThsc2RPclVYSmpPQTQ5M1lLcWVtbURiZk1nc01KRUFyR0VQSzVSanU1V0tMajV6RElPVjVDQ0dDYk1OYW9CcFozYnVmdHA5eW1RbXhlV0prWW9vbF9vY2I1TU5ucnl1aUZicmhPNHZ1TkJ2WTlmMXhR?oc=5",
+              "published": "Fri, 07 Nov 2025 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMipgFBVV95cUxQa090aXZPODQtRGxCb2h4aDQxeWN4SW9kWHNXZjFQNkhaMWZadWJMd3ZaSi1TSThsc2RPclVYSmpPQTQ5M1lLcWVtbURiZk1nc01KRUFyR0VQSzVSanU1V0tMajV6RElPVjVDQ0dDYk1OYW9CcFozYnVmdHA5eW1RbXhlV0prWW9vbF9vY2I1TU5ucnl1aUZicmhPNHZ1TkJ2WTlmMXhR?oc=5\" target=\"_blank\">SoftBank (9984.T) Stock: Falls 6.9% as AI Selloff Wipes $50 Billion in Market Value</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+              "source": "CoinCentral",
+              "symbol": "9984.T",
+              "headline_sentiment": "negative",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟡 HOLD"
+        },
+        "7974.T": {
+          "symbol": "7974.T",
+          "timestamp": "2025-11-23T12:34:34.157187",
+          "analysis_summary": {
+            "overall_sentiment": "positive",
+            "confidence": 0.67,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 2,
+            "negative": 0,
+            "neutral": 1,
+            "positive_percentage": 66.7,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 33.3
+          },
+          "articles": [
+            {
+              "title": "A Fresh Look at Nintendo (TSE:7974) Valuation Following Recent Share Price Pause - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9CakIyZ0NaWEFVVERrWTg4aU16YmJXdXRrdnpWUkg3YjJOaWszZWQ4dTc2VlN0bVpZYlpLeW9GeDFwcTBuRmVTX3ZhMVpoajQ4S3RzYTYzeU43a2xyUFUwXzRhXzM0WHdMNHctOENwZ0FUSHdjMHFlOGlIcV9OMVE?oc=5",
+              "published": "Sat, 08 Nov 2025 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE9CakIyZ0NaWEFVVERrWTg4aU16YmJXdXRrdnpWUkg3YjJOaWszZWQ4dTc2VlN0bVpZYlpLeW9GeDFwcTBuRmVTX3ZhMVpoajQ4S3RzYTYzeU43a2xyUFUwXzRhXzM0WHdMNHctOENwZ0FUSHdjMHFlOGlIcV9OMVE?oc=5\" target=\"_blank\">A Fresh Look at Nintendo (TSE:7974) Valuation Following Recent Share Price Pause</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "7974.T",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Nintendo hikes Switch 2 sales forecast to 19 million units as flagship console momentum grows - CNBC",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmMxLXBxMlY1bHVNOFVZR3ZKSXpGQ1FsanRJS0lQS0xZMVV2c1lsOFRSTWh3QnFXLWV3cTV3U19nN191Z2JCTDFqNEY2a1NINjdPVXNUeVoyQXBkZDNqTm9RUTVVT1hQZldmUFlHSmE4dk5NQkZGa19XTGU0eEtQUkVoRktGZ0h1SlhWbEdlTFR1eFpOellKTHQxWjfSAaIBQVVfeXFMTUozLXV5WGpZNVVZUGlkT2twZ0JPalVrdklMcnJGaEhCQ0hxMjhWdXc3YW5pUi1HTi0xUWZBb1FlS3NlcDl3Mjl5S1c5Vmx2TkpCUmZZUWhtOWlXMjJmbGtnY1JXMmh3SmRqeU9QV1FNMm5BYkV4dHVDS24tY1dzN1ZqUnhINWdJSVRJeW5nYnBESzZRcGVjMzJNVlU5THcwMm93?oc=5",
+              "published": "Tue, 04 Nov 2025 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxQcmMxLXBxMlY1bHVNOFVZR3ZKSXpGQ1FsanRJS0lQS0xZMVV2c1lsOFRSTWh3QnFXLWV3cTV3U19nN191Z2JCTDFqNEY2a1NINjdPVXNUeVoyQXBkZDNqTm9RUTVVT1hQZldmUFlHSmE4dk5NQkZGa19XTGU0eEtQUkVoRktGZ0h1SlhWbEdlTFR1eFpOellKTHQxWjfSAaIBQVVfeXFMTUozLXV5WGpZNVVZUGlkT2twZ0JPalVrdklMcnJGaEhCQ0hxMjhWdXc3YW5pUi1HTi0xUWZBb1FlS3NlcDl3Mjl5S1c5Vmx2TkpCUmZZUWhtOWlXMjJmbGtnY1JXMmh3SmRqeU9QV1FNMm5BYkV4dHVDS24tY1dzN1ZqUnhINWdJSVRJeW5nYnBESzZRcGVjMzJNVlU5THcwMm93?oc=5\" target=\"_blank\">Nintendo hikes Switch 2 sales forecast to 19 million units as flagship console momentum grows</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CNBC</font>",
+              "source": "CNBC",
+              "symbol": "7974.T",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Nintendo Shares Surge After Strong FY2025 Earnings - Bitget",
+              "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQdW5XVzh4eVNtbTlHVkFLWjRwMmhzS0F1amdiZ29yRDZudExIQkdVMlZ1QWNYQ05KYjZBelRnMXJqWGlnZDhOeXVCckV5NlQwODBSVDhkNm15WERTWEp6LW1pelg5Mjk1aEJ2c05oQXgwRjliejBZVWxZZFVRbjlwc0EzUW51RmVjdG4yaU1oS1RkTjJHVVlVSHhpTFZWR3hsM0xsNm5aY2RRTElrbFlIMC1n0gG3AUFVX3lxTE56eFdnd2tyelVxWWZyNDBoczVaZEtjTDdIaGs1dUFYWm5DZXZKUVB1TDFBVTMzUFY3emthLU9idV9sRVc4U0hBSFQtYl94NEtSY05GTVRmSnhqbk9Hc3p0QXpERHhwRkZIMzN1VXpOdDdFOVdzRDhhVlFjX25IOGlBRTdWcXluckJxZXQ3Vk1tdk9WUWxhQjFsdnNMYUNRRUJzQjZiUFlTSFRZdk9NcTFMZWRGcUo1RQ?oc=5",
+              "published": "Wed, 05 Nov 2025 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMisgFBVV95cUxQdW5XVzh4eVNtbTlHVkFLWjRwMmhzS0F1amdiZ29yRDZudExIQkdVMlZ1QWNYQ05KYjZBelRnMXJqWGlnZDhOeXVCckV5NlQwODBSVDhkNm15WERTWEp6LW1pelg5Mjk1aEJ2c05oQXgwRjliejBZVWxZZFVRbjlwc0EzUW51RmVjdG4yaU1oS1RkTjJHVVlVSHhpTFZWR3hsM0xsNm5aY2RRTElrbFlIMC1n0gG3AUFVX3lxTE56eFdnd2tyelVxWWZyNDBoczVaZEtjTDdIaGs1dUFYWm5DZXZKUVB1TDFBVTMzUFY3emthLU9idV9sRVc4U0hBSFQtYl94NEtSY05GTVRmSnhqbk9Hc3p0QXpERHhwRkZIMzN1VXpOdDdFOVdzRDhhVlFjX25IOGlBRTdWcXluckJxZXQ3Vk1tdk9WUWxhQjFsdnNMYUNRRUJzQjZiUFlTSFRZdk9NcTFMZWRGcUo1RQ?oc=5\" target=\"_blank\">Nintendo Shares Surge After Strong FY2025 Earnings</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bitget</font>",
+              "source": "Bitget",
+              "symbol": "7974.T",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟢 BUY"
+        },
+        "005930.KS": {
+          "symbol": "005930.KS",
+          "timestamp": "2025-11-23T12:34:52.582032",
+          "analysis_summary": {
+            "overall_sentiment": "positive",
+            "confidence": 1.0,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 3,
+            "negative": 0,
+            "neutral": 0,
+            "positive_percentage": 100.0,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 0.0
+          },
+          "articles": [
+            {
+              "title": "Samsung Electronics (KOSE:A005930): Is There More Value in the Stock After Its Recent Surge? - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTWpDNzA4VU52NGtUdlBMTDk3d0xFV1FTMjlHYjg3bjUyZjJ4SmtIMmpqY1JEam9fclJIWFUtTXJKenhyNW53a3NMd2xHX0FTamx4UGFLQWZGaE44Qy1fTzJFRDhPcUNFaGY5MDJCSDMzUlUwd1d1bkRhM1B3OHIxaEVZb0FXOWoyVzNR?oc=5",
+              "published": "Mon, 03 Nov 2025 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTWpDNzA4VU52NGtUdlBMTDk3d0xFV1FTMjlHYjg3bjUyZjJ4SmtIMmpqY1JEam9fclJIWFUtTXJKenhyNW53a3NMd2xHX0FTamx4UGFLQWZGaE44Qy1fTzJFRDhPcUNFaGY5MDJCSDMzUlUwd1d1bkRhM1B3OHIxaEVZb0FXOWoyVzNR?oc=5\" target=\"_blank\">Samsung Electronics (KOSE:A005930): Is There More Value in the Stock After Its Recent Surge?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "005930.KS",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Samsung Electronics (005930.KS) Stock: Surges as Lee Family Moves to Sell $1.2B in Shares for Tax Payments - parameter.io",
+              "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUVBlN2xHWjBzNXpiQkQ1RlZnU0Q0RUsxZmFtZGVYb3duSkphNk9ZZU1zX1VTTlNXdk1BcnNncGFiWlJxaHcwV21JN190UUJ2Z2ZNSW4wM2hyUVY4OUpCcmhMb2dJXzl1MlptRkxpYm1JZjNCY0YwdE5pU0RPZ3pZYU1kcmFkdVowLUNLZjN4WjhvRUtRYTFwMVhBV1A0YmE2QWY5bmg5RkYzZVc0bWVsc0Rtb0Ixb0M3ZVZjUGlCR1Zodw?oc=5",
+              "published": "Sat, 18 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUVBlN2xHWjBzNXpiQkQ1RlZnU0Q0RUsxZmFtZGVYb3duSkphNk9ZZU1zX1VTTlNXdk1BcnNncGFiWlJxaHcwV21JN190UUJ2Z2ZNSW4wM2hyUVY4OUpCcmhMb2dJXzl1MlptRkxpYm1JZjNCY0YwdE5pU0RPZ3pZYU1kcmFkdVowLUNLZjN4WjhvRUtRYTFwMVhBV1A0YmE2QWY5bmg5RkYzZVc0bWVsc0Rtb0Ixb0M3ZVZjUGlCR1Zodw?oc=5\" target=\"_blank\">Samsung Electronics (005930.KS) Stock: Surges as Lee Family Moves to Sell $1.2B in Shares for Tax Payments</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">parameter.io</font>",
+              "source": "parameter.io",
+              "symbol": "005930.KS",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Samsung (005930.KS) Stock: Drops Despite $8.48B Q3 Profit on Strong Memory Chip Demand - CoinCentral",
+              "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObXhNZDdNVllWZHYzSmhtV2JZMEIwWGFGaHBFQnVpYXI1OFpIcmlvNldDWS1uckFBaUxlWUstRmhzd2RUWUhNV2pZbkhoTGlfQVNKRzE5a2FQM1BPa3RhbDY1TWpDV2d5Vl9DUnFQTFJrb2VSYjFGcHhiYkZ0QnJVbHUxdVpPdFlCUUhtZ29vTVhlSkEtMHBWRnc2aDlMQ19nVDJkanNQM0xrYy1LZmgyMXEzajhYWUV2SUNRVVJtWQ?oc=5",
+              "published": "Tue, 14 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMivwFBVV95cUxObXhNZDdNVllWZHYzSmhtV2JZMEIwWGFGaHBFQnVpYXI1OFpIcmlvNldDWS1uckFBaUxlWUstRmhzd2RUWUhNV2pZbkhoTGlfQVNKRzE5a2FQM1BPa3RhbDY1TWpDV2d5Vl9DUnFQTFJrb2VSYjFGcHhiYkZ0QnJVbHUxdVpPdFlCUUhtZ29vTVhlSkEtMHBWRnc2aDlMQ19nVDJkanNQM0xrYy1LZmgyMXEzajhYWUV2SUNRVVJtWQ?oc=5\" target=\"_blank\">Samsung (005930.KS) Stock: Drops Despite $8.48B Q3 Profit on Strong Memory Chip Demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+              "source": "CoinCentral",
+              "symbol": "005930.KS",
+              "headline_sentiment": "positive",
+              "headline_confidence": 0.67,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟢 STRONG BUY"
+        },
+        "000660.KS": {
+          "symbol": "000660.KS",
+          "timestamp": "2025-11-23T12:35:00.519611",
+          "analysis_summary": {
+            "overall_sentiment": "positive",
+            "confidence": 1.0,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 3,
+            "negative": 0,
+            "neutral": 0,
+            "positive_percentage": 100.0,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 0.0
+          },
+          "articles": [
+            {
+              "title": "Why Nvidia earnings are boosting these four stocks - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNS291Q2MtbnBFUmQ1TnA0NWkzOTlid0VaTjh4RjZMQ29SZlY3c2JIRGNOQjRCWTFHcjRkZ1pwdThTM1FYV2t3dVNzVDRqN0g0bTB1Vk01M2RKZHMzcWNLVE84Y1k5X3JoWUh5Q3FyNlA5NjlNVGNYTmZXMXI0cVcxUk9JZ0hmSU0?oc=5",
+              "published": "Thu, 20 Nov 2025 12:48:26 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNS291Q2MtbnBFUmQ1TnA0NWkzOTlid0VaTjh4RjZMQ29SZlY3c2JIRGNOQjRCWTFHcjRkZ1pwdThTM1FYV2t3dVNzVDRqN0g0bTB1Vk01M2RKZHMzcWNLVE84Y1k5X3JoWUh5Q3FyNlA5NjlNVGNYTmZXMXI0cVcxUk9JZ0hmSU0?oc=5\" target=\"_blank\">Why Nvidia earnings are boosting these four stocks</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "000660.KS",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "SK Hynix is Up 96% in 2025: Is it Still A Top International Buy? - 24/7 Wall St.",
+              "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ29OeUJ0YXhiTFFsY09pY2lwdE5kLXBpMDNJMWR1aFpFSGhEVEJ2c3hpR3Y3VUVqNHJxOHdIQ1dKMUtwWUFHTENzaGZrREI3WmNucUlBWG9GdkZWTEZQYVM2QkRsU0dMcU55YWEyY0JLZG5GVTUtb2h2a2hEcGIxUHBRMVFLRi1taW9zZ0V2RGdSRXRubVQ1M09RMEtVZGVUOERFM0JFR1g?oc=5",
+              "published": "Mon, 29 Sep 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZ29OeUJ0YXhiTFFsY09pY2lwdE5kLXBpMDNJMWR1aFpFSGhEVEJ2c3hpR3Y3VUVqNHJxOHdIQ1dKMUtwWUFHTENzaGZrREI3WmNucUlBWG9GdkZWTEZQYVM2QkRsU0dMcU55YWEyY0JLZG5GVTUtb2h2a2hEcGIxUHBRMVFLRi1taW9zZ0V2RGdSRXRubVQ1M09RMEtVZGVUOERFM0JFR1g?oc=5\" target=\"_blank\">SK Hynix is Up 96% in 2025: Is it Still A Top International Buy?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">24/7 Wall St.</font>",
+              "source": "24/7 Wall St.",
+              "symbol": "000660.KS",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "3 Asian Stocks Estimated To Be Trading Below Fair Value By Up To 45.8% - Yahoo Finance Singapore",
+              "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXc5UGtnSWc1aWlJWFYxU0paMmNSQnhaMHZzcldZakxhZ0JPdHRZaWVjZGI3MGx3THlzeS1QMzk5SVNCLTVBczJDcjliSkpvV1FJdHVINnJ1TzBYRWh4eVF6cVFOYzJ6NmFRa0prYUhBYnc0bnR0RnJiTVpfUGxYbHVoNlBRRjgx?oc=5",
+              "published": "Thu, 20 Nov 2025 22:34:37 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTXc5UGtnSWc1aWlJWFYxU0paMmNSQnhaMHZzcldZakxhZ0JPdHRZaWVjZGI3MGx3THlzeS1QMzk5SVNCLTVBczJDcjliSkpvV1FJdHVINnJ1TzBYRWh4eVF6cVFOYzJ6NmFRa0prYUhBYnc0bnR0RnJiTVpfUGxYbHVoNlBRRjgx?oc=5\" target=\"_blank\">3 Asian Stocks Estimated To Be Trading Below Fair Value By Up To 45.8%</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+              "source": "Yahoo Finance Singapore",
+              "symbol": "000660.KS",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟢 STRONG BUY"
+        },
+        "035720.KS": {
+          "symbol": "035720.KS",
+          "timestamp": "2025-11-23T12:35:08.439466",
+          "analysis_summary": {
+            "overall_sentiment": "neutral",
+            "confidence": 0.67,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 1,
+            "neutral": 2,
+            "positive_percentage": 0.0,
+            "negative_percentage": 33.3,
+            "neutral_percentage": 66.7
+          },
+          "articles": [
+            {
+              "title": "Kakao (035720.KS) Stock: Falls 5.85% in Past Week as KakaoTalk Redesign Faces Backlash - CoinCentral",
+              "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWc3Y254Zm9NN3JkakFveC1hZ2E4ZlQtNUJMaHNLTXQySXpQZ1h3RFpRQUlDUjN6V0ZwVnowSEM1dFdDVHQzZkVhaG03RGhiSmlqM2t6blVYQ1JyVlRBQUR4SC1sZzl4R2J1UHVOZjNfUVBKM0Y3d3JJMFNfRzJYdmZZOHdTUFNSWjdmUFNPMVVMMk9YaFVRUG95RC1wZS1fcEkxSzB3MFgyTDA?oc=5",
+              "published": "Tue, 30 Sep 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiqwFBVV95cUxNdWc3Y254Zm9NN3JkakFveC1hZ2E4ZlQtNUJMaHNLTXQySXpQZ1h3RFpRQUlDUjN6V0ZwVnowSEM1dFdDVHQzZkVhaG03RGhiSmlqM2t6blVYQ1JyVlRBQUR4SC1sZzl4R2J1UHVOZjNfUVBKM0Y3d3JJMFNfRzJYdmZZOHdTUFNSWjdmUFNPMVVMMk9YaFVRUG95RC1wZS1fcEkxSzB3MFgyTDA?oc=5\" target=\"_blank\">Kakao (035720.KS) Stock: Falls 5.85% in Past Week as KakaoTalk Redesign Faces Backlash</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">CoinCentral</font>",
+              "source": "CoinCentral",
+              "symbol": "035720.KS",
+              "headline_sentiment": "negative",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "M Stanley's Asia Pacific Thematic Focus List - Highest Conviction Opportunities (Table) - AASTOCKS.com",
+              "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPellmVWtrM3NQcHJ1VXJMX3hRbTJFQnprTW5NREJLYkd1WHJPTVhEV1BQSWdzVWtTMnZWX1lMZG51S1dSVi13ajRSdmt0ZGV5eFVmNGNyYms1Q3NiT2RmT3otam9MTEZUNmpwRDUtQnVKdzF1cVJkNlotOWVndHdqbHFLM2Jld29qNkM5bFI4UFRNanZCYi1v?oc=5",
+              "published": "Mon, 17 Nov 2025 04:53:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMilwFBVV95cUxPellmVWtrM3NQcHJ1VXJMX3hRbTJFQnprTW5NREJLYkd1WHJPTVhEV1BQSWdzVWtTMnZWX1lMZG51S1dSVi13ajRSdmt0ZGV5eFVmNGNyYms1Q3NiT2RmT3otam9MTEZUNmpwRDUtQnVKdzF1cVJkNlotOWVndHdqbHFLM2Jld29qNkM5bFI4UFRNanZCYi1v?oc=5\" target=\"_blank\">M Stanley's Asia Pacific Thematic Focus List - Highest Conviction Opportunities (Table)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">AASTOCKS.com</font>",
+              "source": "AASTOCKS.com",
+              "symbol": "035720.KS",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Kakao Founder Charged With Stock Manipulation in Landmark Case - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONXRDclpCNHVWcGNRdl81OTV1RHlUaFpQZEhhMTMxTnlOakFpYzlpTWw5amUxbnVLcEplV2RuSV8zQVBNSHJWanZLcmUwSG1lQnNNNXhXcWtTbHhoYUgzWEYyb0lad1IxcER3bFBMNHZBZDB3ZmRLRVM0STBuTWdabGE1UGlITUNOZ3ZTb1RyOA?oc=5",
+              "published": "Wed, 07 Aug 2024 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijwFBVV95cUxONXRDclpCNHVWcGNRdl81OTV1RHlUaFpQZEhhMTMxTnlOakFpYzlpTWw5amUxbnVLcEplV2RuSV8zQVBNSHJWanZLcmUwSG1lQnNNNXhXcWtTbHhoYUgzWEYyb0lad1IxcER3bFBMNHZBZDB3ZmRLRVM0STBuTWdabGE1UGlITUNOZ3ZTb1RyOA?oc=5\" target=\"_blank\">Kakao Founder Charged With Stock Manipulation in Landmark Case</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "035720.KS",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟡 HOLD"
+        },
+        "TSM": {
+          "symbol": "TSM",
+          "timestamp": "2025-11-23T12:35:17.008095",
+          "analysis_summary": {
+            "overall_sentiment": "neutral",
+            "confidence": 1.0,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 3,
+            "positive_percentage": 0.0,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 100.0
+          },
+          "articles": [
+            {
+              "title": "TSM Stock Price Prediction: Where Taiwan Semiconductor Manufacturing Could Be by 2025, 2026, 2030 - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWUliUGJTVnNZLWVKLUpUYnVsamYwTnZSX05uanF2QzJYQUVERzhOVlBRTHhMb3E5Y3hqUm1NNngySFZ6eGN1V3VWbkR3aUVyUTNZcUJBWmV2dzVWd1ZtMHNxODRnamtmakxQYnlsNDUyRnpCWUtmR052WTJhWWFacC1BWVo?oc=5",
+              "published": "Sat, 22 Nov 2025 13:23:55 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPWUliUGJTVnNZLWVKLUpUYnVsamYwTnZSX05uanF2QzJYQUVERzhOVlBRTHhMb3E5Y3hqUm1NNngySFZ6eGN1V3VWbkR3aUVyUTNZcUJBWmV2dzVWd1ZtMHNxODRnamtmakxQYnlsNDUyRnpCWUtmR052WTJhWWFacC1BWVo?oc=5\" target=\"_blank\">TSM Stock Price Prediction: Where Taiwan Semiconductor Manufacturing Could Be by 2025, 2026, 2030</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "TSM",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "3 Reasons to Buy Taiwan Semiconductor Stock Like There's No Tomorrow - The Motley Fool",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUdyb3k1aWdZeEQ5akpUb0hQaDRxQ205aGpEY3dfRGhtdzlORjgxU2l3Yl82OUk2Z0QzRUR5Q2xNb0NCQncxN0ZMTE1sWXBZMXNrblJfQXR5VWJYenFNTG91dzVRdTRSTHBCMk1tdkttQ1V4WnhpNXFtZkRwZmZOblpiMjhCeUY0bnkyZGxENEFnX3lyNFE?oc=5",
+              "published": "Fri, 21 Nov 2025 14:15:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxOcUdyb3k1aWdZeEQ5akpUb0hQaDRxQ205aGpEY3dfRGhtdzlORjgxU2l3Yl82OUk2Z0QzRUR5Q2xNb0NCQncxN0ZMTE1sWXBZMXNrblJfQXR5VWJYenFNTG91dzVRdTRSTHBCMk1tdkttQ1V4WnhpNXFtZkRwZmZOblpiMjhCeUY0bnkyZGxENEFnX3lyNFE?oc=5\" target=\"_blank\">3 Reasons to Buy Taiwan Semiconductor Stock Like There's No Tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Motley Fool</font>",
+              "source": "The Motley Fool",
+              "symbol": "TSM",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Taiwan Semiconductor, IBD Stock Of The Day, Gets Brief Lift From Key Customer Nvidia - Investor's Business Daily",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPbVppQ09JdVJXMUxmUTluRk9iUEExMGtaMGktcjdjZnpWbFNLejlYckpOWVZaTjNvZlJfYUtYRmJBSjZBaDJwT3hVVGdwajVKVlYtRXFGQWVwSDgxUVhPUldOcElWMW9sQXdqMHczd3lzSjdZTzRhdDF5MThHQ1RRVWVTYUVBNzdWX2J0eExiRkliSkNoVENRUWtpVnZhckJMcHRhRnZIVG1Eak5yQnc?oc=5",
+              "published": "Thu, 20 Nov 2025 21:25:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxPbVppQ09JdVJXMUxmUTluRk9iUEExMGtaMGktcjdjZnpWbFNLejlYckpOWVZaTjNvZlJfYUtYRmJBSjZBaDJwT3hVVGdwajVKVlYtRXFGQWVwSDgxUVhPUldOcElWMW9sQXdqMHczd3lzSjdZTzRhdDF5MThHQ1RRVWVTYUVBNzdWX2J0eExiRkliSkNoVENRUWtpVnZhckJMcHRhRnZIVG1Eak5yQnc?oc=5\" target=\"_blank\">Taiwan Semiconductor, IBD Stock Of The Day, Gets Brief Lift From Key Customer Nvidia</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investor's Business Daily</font>",
+              "source": "Investor's Business Daily",
+              "symbol": "TSM",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟡 HOLD"
+        },
+        "2330.TW": {
+          "symbol": "2330.TW",
+          "timestamp": "2025-11-23T12:35:40.370724",
+          "analysis_summary": {
+            "overall_sentiment": "neutral",
+            "confidence": 0.67,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 2,
+            "positive_percentage": 33.3,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 66.7
+          },
+          "articles": [
+            {
+              "title": "3 Reasons You'll Regret Not Buying Taiwan Semiconductor Stock Before 2025 Is Over - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE0xdVdzQUhteDZnTE9xdEhra3RNa1dhcy1WcHJFenI5WXNFQ0VkN2JnNDNfc1J2UE9ab3MwdjYwWWVqbF80cHlxVXhVN3VWZEtKRUc5Yk91TG85ZmhTYlNodXNsNjFjTmduOExZUHJXTXpJZVVRNy1xZFFocG0?oc=5",
+              "published": "Mon, 06 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE0xdVdzQUhteDZnTE9xdEhra3RNa1dhcy1WcHJFenI5WXNFQ0VkN2JnNDNfc1J2UE9ab3MwdjYwWWVqbF80cHlxVXhVN3VWZEtKRUc5Yk91TG85ZmhTYlNodXNsNjFjTmduOExZUHJXTXpJZVVRNy1xZFFocG0?oc=5\" target=\"_blank\">3 Reasons You'll Regret Not Buying Taiwan Semiconductor Stock Before 2025 Is Over</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "2330.TW",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Chip stocks rise after TSMC's rosy outlook on strong AI demand - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWZwVVpldWM1V0dyOURnSFZQRU50Y0RraTJRUUI5X1B5bm5ycVZCZFdkNGJmU1ZSQ0xCY0dvVVRWUll2UWxxSzF2MERjcmlWSXgyZDVhdGlqTW4zanRTc05lMFVmanJmSG1KOE8zbVR1Mjlza0lYYUpYVW53elRmVmRpcDB4LU1oWHk1MUJDaHJYbll5ZWNDb2g0U1NPb1NvVi11bmt0OW9XNV9xa296TjN6RQ?oc=5",
+              "published": "Thu, 16 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiswFBVV95cUxOaWZwVVpldWM1V0dyOURnSFZQRU50Y0RraTJRUUI5X1B5bm5ycVZCZFdkNGJmU1ZSQ0xCY0dvVVRWUll2UWxxSzF2MERjcmlWSXgyZDVhdGlqTW4zanRTc05lMFVmanJmSG1KOE8zbVR1Mjlza0lYYUpYVW53elRmVmRpcDB4LU1oWHk1MUJDaHJYbll5ZWNDb2g0U1NPb1NvVi11bmt0OW9XNV9xa296TjN6RQ?oc=5\" target=\"_blank\">Chip stocks rise after TSMC's rosy outlook on strong AI demand</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+              "source": "Reuters",
+              "symbol": "2330.TW",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "3 Reasons to Buy Taiwan Semiconductor Stock Like There's No Tomorrow - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkI3anR3cUZ0bldXbmZua0tXcW93UGF1TU9uZXhabkFidmVJeldvZkpUZ2Z6NU0tU0tNSkkzN1JmOWJNNS15ZVR1bXZnMXZFNm1jRU5xWE1YSXItX2xZbG5PS0tsMTNvaWVxTlBYYUdSdXd0MnliYWk0ZnYtS0h0dDFPbmV5czA?oc=5",
+              "published": "Wed, 22 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOYkI3anR3cUZ0bldXbmZua0tXcW93UGF1TU9uZXhabkFidmVJeldvZkpUZ2Z6NU0tU0tNSkkzN1JmOWJNNS15ZVR1bXZnMXZFNm1jRU5xWE1YSXItX2xZbG5PS0tsMTNvaWVxTlBYYUdSdXd0MnliYWk0ZnYtS0h0dDFPbmV5czA?oc=5\" target=\"_blank\">3 Reasons to Buy Taiwan Semiconductor Stock Like There's No Tomorrow</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "2330.TW",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟡 HOLD"
+        },
+        "2454.TW": {
+          "symbol": "2454.TW",
+          "timestamp": "2025-11-23T12:36:00.007172",
+          "analysis_summary": {
+            "overall_sentiment": "neutral",
+            "confidence": 0.33,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 1,
+            "negative": 1,
+            "neutral": 1,
+            "positive_percentage": 33.3,
+            "negative_percentage": 33.3,
+            "neutral_percentage": 33.3
+          },
+          "articles": [
+            {
+              "title": "Taiwan's MediaTek targets billions in AI accelerator chip revenue by 2027 - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOWE9iSVBaRlMwMmhtVzB3VnpIR29sZkxoaF91b3hNWm9WbnlvUWtfeUVXc2s1MmpVbGpUOVFvNTBwZk12Ql93dElqZHNjal9LTXgwTEtjRERWM21IajB4TkxCWTVXOHZ1UWJidzdfWTNXVGtHZk9MMmxJeHpfMS1nR2t0N01OUy1BQVBxdDIwVXFROTJYNGRWN0VZWmVManljVFZBV2dYTm9HRlZ4Rzg3N1V2amVOYktadG0teG9NaXlucjFjX3dB?oc=5",
+              "published": "Fri, 31 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxOWE9iSVBaRlMwMmhtVzB3VnpIR29sZkxoaF91b3hNWm9WbnlvUWtfeUVXc2s1MmpVbGpUOVFvNTBwZk12Ql93dElqZHNjal9LTXgwTEtjRERWM21IajB4TkxCWTVXOHZ1UWJidzdfWTNXVGtHZk9MMmxJeHpfMS1nR2t0N01OUy1BQVBxdDIwVXFROTJYNGRWN0VZWmVManljVFZBV2dYTm9HRlZ4Rzg3N1V2amVOYktadG0teG9NaXlucjFjX3dB?oc=5\" target=\"_blank\">Taiwan's MediaTek targets billions in AI accelerator chip revenue by 2027</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+              "source": "Reuters",
+              "symbol": "2454.TW",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "MediaTek Full Year 2024 Earnings: EPS Beats Expectations - simplywall.st",
+              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVG54MkZIQURVX1J4N3lVbUxLSkRTUFNUcFI0WVVPdE02WWw1bGlHbEY4N3JGb3hTaTVPLUVLVWR6cUZabjBZWlJHT2c0VkQ5bVJzSzFSYUwyd3FYWXhxQWJoTUMxdDJIZGhwZi1hdzMwNExWVlB0S2pTaS1NOVBGQUN2M2k3RUV0M2RsaEd4bjZqS1hRQVVYM1ZPZlp2ZGwzZzEwV3l1alQ3NmJZdHJZVFBXUUJXSGU2VklYNWlmNWFnYzhNRUVkV2pVLVFidDc00gHWAUFVX3lxTE1XZzBEeTJlWEF5aWY4dGt6LWJFYlMxLVQ5cHhYdWp0S2hmY0pES0Q4UlRvNlN2bHp0SE1BUzd6UXhvZ3dIT2xScUo5dHExbVBtWlhzbFp1dVdGQmpiakx1clZoblA3WnZmVFp3OXEtaDhybVhkVUIzalBJQ1lGMTdVOFY4RXhwMDFDOC14OVBJLTJuelVBeURCa2I3a1Zqd1lVYUJwaDg1T1pMQnVFV3pjVXdRUm8wQ2J3YWFzbE5iSHpFY3ctQlk2OGp3OV9oNnBzRVkwRUE?oc=5",
+              "published": "Thu, 06 Mar 2025 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOVG54MkZIQURVX1J4N3lVbUxLSkRTUFNUcFI0WVVPdE02WWw1bGlHbEY4N3JGb3hTaTVPLUVLVWR6cUZabjBZWlJHT2c0VkQ5bVJzSzFSYUwyd3FYWXhxQWJoTUMxdDJIZGhwZi1hdzMwNExWVlB0S2pTaS1NOVBGQUN2M2k3RUV0M2RsaEd4bjZqS1hRQVVYM1ZPZlp2ZGwzZzEwV3l1alQ3NmJZdHJZVFBXUUJXSGU2VklYNWlmNWFnYzhNRUVkV2pVLVFidDc00gHWAUFVX3lxTE1XZzBEeTJlWEF5aWY4dGt6LWJFYlMxLVQ5cHhYdWp0S2hmY0pES0Q4UlRvNlN2bHp0SE1BUzd6UXhvZ3dIT2xScUo5dHExbVBtWlhzbFp1dVdGQmpiakx1clZoblA3WnZmVFp3OXEtaDhybVhkVUIzalBJQ1lGMTdVOFY4RXhwMDFDOC14OVBJLTJuelVBeURCa2I3a1Zqd1lVYUJwaDg1T1pMQnVFV3pjVXdRUm8wQ2J3YWFzbE5iSHpFY3ctQlk2OGp3OV9oNnBzRVkwRUE?oc=5\" target=\"_blank\">MediaTek Full Year 2024 Earnings: EPS Beats Expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+              "source": "simplywall.st",
+              "symbol": "2454.TW",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Broadcom: This Is the Biggest Risk the Stock Faces - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWxJbTN6S1czMTBpOUk4cTNBMmVvLWhkdXU1RUNkUFAweDVhVm8xRndCNHFqVVZoZ0s3b2xvaGdxMFZROTY1SnB0VUVUa0JlNUJPaC14RHhWZWFxcVY4dVVjZ3N2djlYMktPeUdpeGhkTjhIbVJwRTEyQkV0Zy03cm9KVjU3QQ?oc=5",
+              "published": "Sun, 05 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNcWxJbTN6S1czMTBpOUk4cTNBMmVvLWhkdXU1RUNkUFAweDVhVm8xRndCNHFqVVZoZ0s3b2xvaGdxMFZROTY1SnB0VUVUa0JlNUJPaC14RHhWZWFxcVY4dVVjZ3N2djlYMktPeUdpeGhkTjhIbVJwRTEyQkV0Zy03cm9KVjU3QQ?oc=5\" target=\"_blank\">Broadcom: This Is the Biggest Risk the Stock Faces</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "2454.TW",
+              "headline_sentiment": "negative",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟡 HOLD"
+        },
+        "1211.HK": {
+          "symbol": "1211.HK",
+          "timestamp": "2025-11-23T12:36:24.558753",
+          "analysis_summary": {
+            "overall_sentiment": "positive",
+            "confidence": 0.67,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 2,
+            "negative": 1,
+            "neutral": 0,
+            "positive_percentage": 66.7,
+            "negative_percentage": 33.3,
+            "neutral_percentage": 0.0
+          },
+          "articles": [
+            {
+              "title": "Evaluating BYD (SEHK:1211): Is There Still Value After a Year of Volatility? - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHRrWU04MG1XbXY1Nlh4anZHaHpsREpHTGpkYkQ5RDF2Wjk3WTJidUZNcFNrZGpGaFZGczc4RTJLTDdSSDllVzYwd0ZCclYzNkN6RmpMQnBKbWItOExVMWdTazROUnVzVVNNQzdKRl9RLXlGX2ZTZEZqUFB6N3B5ZkNn?oc=5",
+              "published": "Tue, 16 Sep 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiggFBVV95cUxNZHRrWU04MG1XbXY1Nlh4anZHaHpsREpHTGpkYkQ5RDF2Wjk3WTJidUZNcFNrZGpGaFZGczc4RTJLTDdSSDllVzYwd0ZCclYzNkN6RmpMQnBKbWItOExVMWdTazROUnVzVVNNQzdKRl9RLXlGX2ZTZEZqUFB6N3B5ZkNn?oc=5\" target=\"_blank\">Evaluating BYD (SEHK:1211): Is There Still Value After a Year of Volatility?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "1211.HK",
+              "headline_sentiment": "negative",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "BYD shares drop 6% from record high amid profit-taking - Investing.com",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRVhRQXdYNjJGaHlYWkk4VndRRkx4aTdHdEFtRFFBSEZONWZUMGxhX21qR01ZUDhwTGtKMXF6dmRxYnB1TExHMkNZaWR4SHhRZXJrZno1TEZFR2kxR1hXeGRUdk1iRmxYX19sbVAtS09qcXVvYzVHYlpNN005RXFnc3pndDRxV182bjF1b1oxcjE4SWRqVld5MmFfalBNV0UxYnd3TkdNZlhja1pIcnc?oc=5",
+              "published": "Sun, 25 May 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxQRVhRQXdYNjJGaHlYWkk4VndRRkx4aTdHdEFtRFFBSEZONWZUMGxhX21qR01ZUDhwTGtKMXF6dmRxYnB1TExHMkNZaWR4SHhRZXJrZno1TEZFR2kxR1hXeGRUdk1iRmxYX19sbVAtS09qcXVvYzVHYlpNN005RXFnc3pndDRxV182bjF1b1oxcjE4SWRqVld5MmFfalBNV0UxYnd3TkdNZlhja1pIcnc?oc=5\" target=\"_blank\">BYD shares drop 6% from record high amid profit-taking</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Investing.com</font>",
+              "source": "Investing.com",
+              "symbol": "1211.HK",
+              "headline_sentiment": "positive",
+              "headline_confidence": 0.67,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "10 China mobility stocks to ride BYD’s UK surge - NAI500",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzA3YlR6alB5NE4tNnUwSk1UbUlUZDFqUzR1Y29WZDh1R1VmekNMeGp6QUNha0JJeFJyUFB2Yk9STXVSVHEySE91T3ZkSE9nRjBvMU5jdWpGTHlSQlo5RXRDX3owajNHdndMUF9CVkRkTjVrc1EzRWE4VHNXM0RtUi1jVkE2bDg?oc=5",
+              "published": "Mon, 06 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxPdzA3YlR6alB5NE4tNnUwSk1UbUlUZDFqUzR1Y29WZDh1R1VmekNMeGp6QUNha0JJeFJyUFB2Yk9STXVSVHEySE91T3ZkSE9nRjBvMU5jdWpGTHlSQlo5RXRDX3owajNHdndMUF9CVkRkTjVrc1EzRWE4VHNXM0RtUi1jVkE2bDg?oc=5\" target=\"_blank\">10 China mobility stocks to ride BYD’s UK surge</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">NAI500</font>",
+              "source": "NAI500",
+              "symbol": "1211.HK",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟢 BUY"
+        }
+      },
+      "regional_sentiment": {
+        "positive_stocks": 10,
+        "negative_stocks": 0,
+        "neutral_stocks": 8,
+        "overall_trend": "positive"
+      }
+    },
+    "South Asia": {
+      "region": "South Asia",
+      "timestamp": "2025-11-23T12:36:39.988858",
+      "total_stocks": 5,
+      "stocks": {
+        "TCS.BO": {
+          "symbol": "TCS.BO",
+          "timestamp": "2025-11-23T12:37:00.866275",
+          "analysis_summary": {
+            "overall_sentiment": "neutral",
+            "confidence": 1.0,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 3,
+            "positive_percentage": 0.0,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 100.0
+          },
+          "articles": [
+            {
+              "title": "Box (NYSE: BOX) partners with TCS on AI content, leveraging 1500+ integrations - Stock Titan",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWNzM21SLTBlMXJZdlNtSDF6LTVzWVVGRmtJLWVYdmtYRFBWaGhYakxhbkN3NWRJWk12QTlPTEZ2ZnY4MVdocWhYMWRjZllsVHhtN25NSnJJQmgzbzlKanFab0NUdFYzOUdWUjlzY1BVa1FCVnpXZlUxeGNFTWlhSU5oYm9zdlJZbWVTMXRGbnhyMlFVX1BWV1c5MDg2QnBtZEJNeVlLcWE4NUdTbjRMX1hxVEJPdw?oc=5",
+              "published": "Tue, 21 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxQaWNzM21SLTBlMXJZdlNtSDF6LTVzWVVGRmtJLWVYdmtYRFBWaGhYakxhbkN3NWRJWk12QTlPTEZ2ZnY4MVdocWhYMWRjZllsVHhtN25NSnJJQmgzbzlKanFab0NUdFYzOUdWUjlzY1BVa1FCVnpXZlUxeGNFTWlhSU5oYm9zdlJZbWVTMXRGbnhyMlFVX1BWV1c5MDg2QnBtZEJNeVlLcWE4NUdTbjRMX1hxVEJPdw?oc=5\" target=\"_blank\">Box (NYSE: BOX) partners with TCS on AI content, leveraging 1500+ integrations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+              "source": "Stock Titan",
+              "symbol": "TCS.BO",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "TaMo, TCS stocks slide as JLR woes linger - Times of India",
+              "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPcDZSN0RBaUl4SHB2TjhFYjFZMGlhb0VfbFVWSkI1MHgxbXlKWkVPM0gxaXZhLTI3SGQ0aFVEa0hnYS04QWh6M291RjZxRkJpRU1zUnc0b3poeDVYZ08yQjIwMFNuM0FTU1I2OUh4Z1d0ZHJEazlGdnoySDZUdFBKbjg3T3VEQWwzV212eUc5T0VKQUt2WnVpdkNZMFR6bktSam82Q21IckZuX0E1ZU5HWHF3OXdDZ3FBWDVzTnFfY20xMVJ60gHKAUFVX3lxTE4tc0dJZ0hUUE1sTG1MVHlMWFlOYVFSZUJsTVNqVXltalZoYS1Ca0EzdnBVSWF1N3BibzMzSTZsWW4tei1RY1VNR1FVZ0pKYlEzczduaUcta2V5WEVKeHpaOHd4c1B6R3NUMW5lV010eDVjMG1uM1gzUFVhME5LVEprS1NoNE9xMkdiSTd0SDZaOG45NnRtWnJvUF9zdHVDV1ZPV3pTeHdyVmlwSEY1NTYxT1FuMTRVYm1GVldlY1UwV0Y4U1Z4NUo3Z1E?oc=5",
+              "published": "Fri, 26 Sep 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMixAFBVV95cUxPcDZSN0RBaUl4SHB2TjhFYjFZMGlhb0VfbFVWSkI1MHgxbXlKWkVPM0gxaXZhLTI3SGQ0aFVEa0hnYS04QWh6M291RjZxRkJpRU1zUnc0b3poeDVYZ08yQjIwMFNuM0FTU1I2OUh4Z1d0ZHJEazlGdnoySDZUdFBKbjg3T3VEQWwzV212eUc5T0VKQUt2WnVpdkNZMFR6bktSam82Q21IckZuX0E1ZU5HWHF3OXdDZ3FBWDVzTnFfY20xMVJ60gHKAUFVX3lxTE4tc0dJZ0hUUE1sTG1MVHlMWFlOYVFSZUJsTVNqVXltalZoYS1Ca0EzdnBVSWF1N3BibzMzSTZsWW4tei1RY1VNR1FVZ0pKYlEzczduaUcta2V5WEVKeHpaOHd4c1B6R3NUMW5lV010eDVjMG1uM1gzUFVhME5LVEprS1NoNE9xMkdiSTd0SDZaOG45NnRtWnJvUF9zdHVDV1ZPV3pTeHdyVmlwSEY1NTYxT1FuMTRVYm1GVldlY1UwV0Y4U1Z4NUo3Z1E?oc=5\" target=\"_blank\">TaMo, TCS stocks slide as JLR woes linger</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Times of India</font>",
+              "source": "Times of India",
+              "symbol": "TCS.BO",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Stocks to Watch today: ITC, RIL, TCS, Vedanta, Hyundai Motor India, Swiggy - Business Standard",
+              "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd25tdjUtYkgwbVBqOWVpUFB0X191VERpUXdlczJyT0pyMTUzR3c1Wm1iTlc4VHo5c01FT1BqbmY1WlpPYjYwdlM0aW9UaVZNT19fTEJuV0tfUHZvc1FDWG1VajBKUmJxTmVtMnNMd3hzZ2ZXOVUwOWhxY2VhenFqVE1heG5kZ1lOSW1faklZUlFhZkl0aVZsM3Rqb1o0TDJhY2xtVGhyOHpnZFcydUtZQ3dCWU5OQThSLW5kWU1Ra0ZzT2tQSEhTT0JBSHNkcWJK0gHWAUFVX3lxTE5mVlM1b2dxcU9hT25LdDRIOGUyd25xaEVuVDVaLS1TRks4MjdHWk9YSmhja09GMGp0TVcwV1RjODNnRzV0OExBR2lLMDRPOERlSkFDc2U5ZVl2WTBOeFVYQXM3Zk1JVmZNNDVDN3NjUm82VkVnUUVqeTRCaC14Q3FXVHNEQ3VxZVB0N1NHMmdLNWlrYmZnUy1RemZadFR3eFRGUTg3WUs5ZjRURUM2ZkRmTG40RjFlNlFVelhfS25GdWFFYmgwTHJVRTdqZWpDc0s4WlVfbWc?oc=5",
+              "published": "Fri, 31 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0AFBVV95cUxOd25tdjUtYkgwbVBqOWVpUFB0X191VERpUXdlczJyT0pyMTUzR3c1Wm1iTlc4VHo5c01FT1BqbmY1WlpPYjYwdlM0aW9UaVZNT19fTEJuV0tfUHZvc1FDWG1VajBKUmJxTmVtMnNMd3hzZ2ZXOVUwOWhxY2VhenFqVE1heG5kZ1lOSW1faklZUlFhZkl0aVZsM3Rqb1o0TDJhY2xtVGhyOHpnZFcydUtZQ3dCWU5OQThSLW5kWU1Ra0ZzT2tQSEhTT0JBSHNkcWJK0gHWAUFVX3lxTE5mVlM1b2dxcU9hT25LdDRIOGUyd25xaEVuVDVaLS1TRks4MjdHWk9YSmhja09GMGp0TVcwV1RjODNnRzV0OExBR2lLMDRPOERlSkFDc2U5ZVl2WTBOeFVYQXM3Zk1JVmZNNDVDN3NjUm82VkVnUUVqeTRCaC14Q3FXVHNEQ3VxZVB0N1NHMmdLNWlrYmZnUy1RemZadFR3eFRGUTg3WUs5ZjRURUM2ZkRmTG40RjFlNlFVelhfS25GdWFFYmgwTHJVRTdqZWpDc0s4WlVfbWc?oc=5\" target=\"_blank\">Stocks to Watch today: ITC, RIL, TCS, Vedanta, Hyundai Motor India, Swiggy</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+              "source": "Business Standard",
+              "symbol": "TCS.BO",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟡 HOLD"
+        },
+        "INFY.BO": {
+          "symbol": "INFY.BO",
+          "timestamp": "2025-11-23T12:37:13.485845",
+          "analysis_summary": {
+            "overall_sentiment": "neutral",
+            "confidence": 1.0,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 3,
+            "positive_percentage": 0.0,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 100.0
+          },
+          "articles": [
+            {
+              "title": "Infosys (NYSE: INFY) to modernize Metro Bank finance with Workday Financial Management - Stock Titan",
+              "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRUZWMnRYemQ0VTVVbkhLdDNZWE9wbjBxZGRhTWUtSmVRcWlSOHFwTWdBWm1zMnN5SzNXVk9UYmFza2tOc185ZmZNeHIyZGRRTzNZVGZUWGRHS0UtUVotdmNteWEwMXR6YXJzTUhLbXZlLWJiY3ptZWRIc05GQTdNemFNdmJZZjBHZXF6SzROWTB4d2MzeldGYTRrdVl3OHNNNnRkT2xHQklLQ3I0VWc2cXJPR2EyQVJqemRtWVl2Yno?oc=5",
+              "published": "Wed, 29 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiwAFBVV95cUxNRUZWMnRYemQ0VTVVbkhLdDNZWE9wbjBxZGRhTWUtSmVRcWlSOHFwTWdBWm1zMnN5SzNXVk9UYmFza2tOc185ZmZNeHIyZGRRTzNZVGZUWGRHS0UtUVotdmNteWEwMXR6YXJzTUhLbXZlLWJiY3ptZWRIc05GQTdNemFNdmJZZjBHZXF6SzROWTB4d2MzeldGYTRrdVl3OHNNNnRkT2xHQklLQ3I0VWc2cXJPR2EyQVJqemRtWVl2Yno?oc=5\" target=\"_blank\">Infosys (NYSE: INFY) to modernize Metro Bank finance with Workday Financial Management</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Stock Titan</font>",
+              "source": "Stock Titan",
+              "symbol": "INFY.BO",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Stocks to watch next week: JPMorgan, TSMC, Infosys, ASML and Bellway - Yahoo Finance UK",
+              "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2JJdE5ZS0FDYUVtc0JtQjBvcFNJY2dYa2IwdWFiOXFaM3FJc1RkX3RwbWY2MUZFM3BaQmJtcUoyNGJ2WXZJampJelUxeVowN040RGI4VG83QmxzRTlOTF84bmJCMjA1OWdOempmcHJ5eUVRallRNmlrcHJpejJvRlNzNm5HXzlmNUlpMFRVY2RoRFR1dXh6VVNrUXE?oc=5",
+              "published": "Fri, 10 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMinAFBVV95cUxOd2JJdE5ZS0FDYUVtc0JtQjBvcFNJY2dYa2IwdWFiOXFaM3FJc1RkX3RwbWY2MUZFM3BaQmJtcUoyNGJ2WXZJampJelUxeVowN040RGI4VG83QmxzRTlOTF84bmJCMjA1OWdOempmcHJ5eUVRallRNmlrcHJpejJvRlNzNm5HXzlmNUlpMFRVY2RoRFR1dXh6VVNrUXE?oc=5\" target=\"_blank\">Stocks to watch next week: JPMorgan, TSMC, Infosys, ASML and Bellway</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance UK</font>",
+              "source": "Yahoo Finance UK",
+              "symbol": "INFY.BO",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Last day! Infosys, 9 other stocks turn ex-dividend today; do you own any? - Business Standard",
+              "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSG94TVg4RFlpb3hNSWZMQWZOT1lmeFZacUhaRTlPc1ZEdkZqZU1OMlp5WC1kZXp1RjRTNWhoTTBMU3NzWU5YZE44ZEhJdFV0S3J5elNkRVY2VVVuNnVHOHNvUlJSaXdiZTV1M0RRVUhqNTlCNks5N0xYVEdTVkhpTU5hN0MzTTQtOXYzWC10MWtkV2RZTWxYaHM5N05WLWRhNkM3aTY0bUVqLW03ZUQ4azM1dWdfRFpteF8zRmdxYXE4blAtcVdHNTF0aHpLV2tYa2fSAdcBQVVfeXFMTUM0Q2RaSUp4NUduYjBRSHR1LUN5UWlXcjhqM0ZlT1BkY2c1YUh1N1VuTGphTlBtd3REalU2Qm9ibFk4ZE5UVDYzNnYtckR1ODBkVi12Z1NjZ084OUFVblRibkk2eTZ4RG9nLWVQd1o1OHYxbU1lT2dKNlh1bUU2blZSV0RLTml0dGo4REttczBrN3pnRWJHWHBsNW9ZRExHNGN0YlFCMmJtN2pndTNra0ZzTkkwZXlNR0s4YndrbEQ5YmkyT3dkUF9lSVU1OWRveVhvcFdFamM?oc=5",
+              "published": "Mon, 27 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMi0gFBVV95cUxPSG94TVg4RFlpb3hNSWZMQWZOT1lmeFZacUhaRTlPc1ZEdkZqZU1OMlp5WC1kZXp1RjRTNWhoTTBMU3NzWU5YZE44ZEhJdFV0S3J5elNkRVY2VVVuNnVHOHNvUlJSaXdiZTV1M0RRVUhqNTlCNks5N0xYVEdTVkhpTU5hN0MzTTQtOXYzWC10MWtkV2RZTWxYaHM5N05WLWRhNkM3aTY0bUVqLW03ZUQ4azM1dWdfRFpteF8zRmdxYXE4blAtcVdHNTF0aHpLV2tYa2fSAdcBQVVfeXFMTUM0Q2RaSUp4NUduYjBRSHR1LUN5UWlXcjhqM0ZlT1BkY2c1YUh1N1VuTGphTlBtd3REalU2Qm9ibFk4ZE5UVDYzNnYtckR1ODBkVi12Z1NjZ084OUFVblRibkk2eTZ4RG9nLWVQd1o1OHYxbU1lT2dKNlh1bUU2blZSV0RLTml0dGo4REttczBrN3pnRWJHWHBsNW9ZRExHNGN0YlFCMmJtN2pndTNra0ZzTkkwZXlNR0s4YndrbEQ5YmkyT3dkUF9lSVU1OWRveVhvcFdFamM?oc=5\" target=\"_blank\">Last day! Infosys, 9 other stocks turn ex-dividend today; do you own any?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+              "source": "Business Standard",
+              "symbol": "INFY.BO",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟡 HOLD"
+        },
+        "WIPRO.BO": {
+          "symbol": "WIPRO.BO",
+          "timestamp": "2025-11-23T12:37:26.403460",
+          "analysis_summary": {
+            "overall_sentiment": "neutral",
+            "confidence": 1.0,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 3,
+            "positive_percentage": 0.0,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 100.0
+          },
+          "articles": [
+            {
+              "title": "Wipro to Ring The Closing Bell® at the New York Stock Exchange - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAzb1lvQk5IcHMwMDZ0M2FQRktsOFczQ0piRXJzUFJwQzJBTXFheFZwbnhGcGpBWWh5NkRPY3UtMEFqSlQxNHFmR3VuM0dwY2ZnWjFDeGxMVXVTa0lYbE5WcUNKMkRUc21tbk5WZHpZRVpWWGVUZjlSbDJZUnpvdnc?oc=5",
+              "published": "Thu, 30 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTFAzb1lvQk5IcHMwMDZ0M2FQRktsOFczQ0piRXJzUFJwQzJBTXFheFZwbnhGcGpBWWh5NkRPY3UtMEFqSlQxNHFmR3VuM0dwY2ZnWjFDeGxMVXVTa0lYbE5WcUNKMkRUc21tbk5WZHpZRVpWWGVUZjlSbDJZUnpvdnc?oc=5\" target=\"_blank\">Wipro to Ring The Closing Bell® at the New York Stock Exchange</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "WIPRO.BO",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Wipro Secures Multi-Year Deal to Transform HanesBrands’ IT with AI-First Approach - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMkMtUUVqRGh2bzBWaC1lNWd3NEJ2b3BwQW9aaHZjZXpWTF8wRDRzenJPOE5WX3dfdWNsNEY5NGh6cGUwdjUzVlRoZlpJOE1SeTJ2ak9lVHlzLXdXNFZfMTZFVl9KazJ3TU9Jc1JjRTVHRWgwWDNFazFVMkUwc3A0WHFjWFltSUE?oc=5",
+              "published": "Fri, 31 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxOMkMtUUVqRGh2bzBWaC1lNWd3NEJ2b3BwQW9aaHZjZXpWTF8wRDRzenJPOE5WX3dfdWNsNEY5NGh6cGUwdjUzVlRoZlpJOE1SeTJ2ak9lVHlzLXdXNFZfMTZFVl9KazJ3TU9Jc1JjRTVHRWgwWDNFazFVMkUwc3A0WHFjWFltSUE?oc=5\" target=\"_blank\">Wipro Secures Multi-Year Deal to Transform HanesBrands’ IT with AI-First Approach</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "WIPRO.BO",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "CLSA Maintains a Buy Rating on Wipro Limited (WIT) - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOakNiWHlhWW5fV3pYTnRZb0RHRlI3b3h3bFhhVGRvRER2UUw3am5MLWxXUG9LVDdBNkhGeHQ3cFczcnBXUkhjQ1hpWkZXd1Z0eFVvWnRLUnNSZTBRYWFlcEdrcFkzVGFDYWVsWUliRlQyVGE3dzdpblQyeVhjemFrTHE3QQ?oc=5",
+              "published": "Mon, 13 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMigwFBVV95cUxOakNiWHlhWW5fV3pYTnRZb0RHRlI3b3h3bFhhVGRvRER2UUw3am5MLWxXUG9LVDdBNkhGeHQ3cFczcnBXUkhjQ1hpWkZXd1Z0eFVvWnRLUnNSZTBRYWFlcEdrcFkzVGFDYWVsWUliRlQyVGE3dzdpblQyeVhjemFrTHE3QQ?oc=5\" target=\"_blank\">CLSA Maintains a Buy Rating on Wipro Limited (WIT)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "WIPRO.BO",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟡 HOLD"
+        },
+        "HCLTECH.BO": {
+          "symbol": "HCLTECH.BO",
+          "timestamp": "2025-11-23T12:37:38.669195",
+          "analysis_summary": {
+            "overall_sentiment": "neutral",
+            "confidence": 0.67,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 1,
+            "negative": 0,
+            "neutral": 2,
+            "positive_percentage": 33.3,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 66.7
+          },
+          "articles": [
+            {
+              "title": "HCLTech Opens Office in Calgary, Expanding Its Presence in Canada - Yahoo Finance Singapore",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUQ2VVRQRGQybWViaUNUWUVuQU9raGlpdG9xMTZ2M2kwLW91Zk5QM3lZYUE5enNHdDBzUE9mbGRHdUZ6RHpaaHRyWFZ5NEo2WDhnZmU4NkY4eUNPMjhtZ2VWNVVnVUc3V2tGd3dYdkxCYXVsZHRJS2t5Ui02RUgyTkhOUEFrUmtSd056SDFmVTI?oc=5",
+              "published": "Tue, 18 Nov 2025 12:53:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxOOUQ2VVRQRGQybWViaUNUWUVuQU9raGlpdG9xMTZ2M2kwLW91Zk5QM3lZYUE5enNHdDBzUE9mbGRHdUZ6RHpaaHRyWFZ5NEo2WDhnZmU4NkY4eUNPMjhtZ2VWNVVnVUc3V2tGd3dYdkxCYXVsZHRJS2t5Ui02RUgyTkhOUEFrUmtSd056SDFmVTI?oc=5\" target=\"_blank\">HCLTech Opens Office in Calgary, Expanding Its Presence in Canada</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+              "source": "Yahoo Finance Singapore",
+              "symbol": "HCLTECH.BO",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Stocks to watch: RIL, HCL Tech, Tata Power among 10 shares in focus today - livemint.com",
+              "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzEtZUs0N1VKUUhXQmRxZlZSWE5aQzNkMWxGdzZLZGhDWDdPZ1FCRzAtc0cwekp5eXR0dDRmT19EUzBZY0xhT25nT3Z4ampkb3hqeVRZdHRuSU96U1JHUDJPYzBNSVFBQWVESm5QYV9nN2psbjRYTndXb1Z5REZoaWdhdXRkN0lKUU1yMnBERHd3dkUzS0dQNVgzYmk4TkxVUWVFelpLYmlMMGVsV3prbE9YZ2hjeFNzeFJMUm1PYWJhaTNMbTdqLXVxTWZqQkhKLXE4dGNaRdIB3AFBVV95cUxQUFN1ZFpuTEx0cVVKd0J5MEFKbUN3VmdiOGRZYkI4V3dWVVBFZVVQbHQtcXU0WUV5UkdWdU4zYU1lVXlYeVp5Qzl4dmF1MldBaWN1OEdzeFNJSkVvSFk0eElJWmRpY2JZekR5Sy1YajJEU0UzYU5Fc1o3WmhtcE8yYVloSnJnN2RUdGdVdHlZc0VOMDNHcWdhMktVMWVwY3VRYjJxY1VQb292UXdwR2ZSZW9QYk01WWFqeVdXRnlUYVY1VnczM0tEN0htMlVnOXU5OVlTZ3ZtY1A5aWlX?oc=5",
+              "published": "Tue, 18 Nov 2025 01:51:04 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1wFBVV95cUxONzEtZUs0N1VKUUhXQmRxZlZSWE5aQzNkMWxGdzZLZGhDWDdPZ1FCRzAtc0cwekp5eXR0dDRmT19EUzBZY0xhT25nT3Z4ampkb3hqeVRZdHRuSU96U1JHUDJPYzBNSVFBQWVESm5QYV9nN2psbjRYTndXb1Z5REZoaWdhdXRkN0lKUU1yMnBERHd3dkUzS0dQNVgzYmk4TkxVUWVFelpLYmlMMGVsV3prbE9YZ2hjeFNzeFJMUm1PYWJhaTNMbTdqLXVxTWZqQkhKLXE4dGNaRdIB3AFBVV95cUxQUFN1ZFpuTEx0cVVKd0J5MEFKbUN3VmdiOGRZYkI4V3dWVVBFZVVQbHQtcXU0WUV5UkdWdU4zYU1lVXlYeVp5Qzl4dmF1MldBaWN1OEdzeFNJSkVvSFk0eElJWmRpY2JZekR5Sy1YajJEU0UzYU5Fc1o3WmhtcE8yYVloSnJnN2RUdGdVdHlZc0VOMDNHcWdhMktVMWVwY3VRYjJxY1VQb292UXdwR2ZSZW9QYk01WWFqeVdXRnlUYVY1VnczM0tEN0htMlVnOXU5OVlTZ3ZtY1A5aWlX?oc=5\" target=\"_blank\">Stocks to watch: RIL, HCL Tech, Tata Power among 10 shares in focus today</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">livemint.com</font>",
+              "source": "livemint.com",
+              "symbol": "HCLTECH.BO",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "HCL Tech shares gain 3% on partnership with UAE-based DIB; IT stocks rally - Business Standard",
+              "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWGFld3BURjBoVWZ1ckx4WktWUUVXa0xWdDdZSzZiU2tRX2o1THg4WUFjcWpCbmdXUkRvak5IMTJmWHpSOHFGUHFzSGJsSmt2YmxjTDZrTnI2M3hUbExnbTR6SVZ1X1N2YW9OQ1BrQTgyMWlTR0ZYak84cDFtcXEwWVByMjd0Z1drV0tibTJuazl1MFoybVlFX2t1YnpjdnRja2tFaThmVEhEczZWd3hMN0ZYZjNiYUVBTVhCQjF0ak9WN1RsbE1kazQ5NFJidmV6TzVfQUVLWnnSAd4BQVVfeXFMT1Rmc0QxYmRFVjQ3Q0JoY1dBZHh3QWh5R0czcjEyZjhNY0pTT3VQbi0xNmpMLVFQSFNwVDBzRzVXd29CZ2hjU00tTDJJdmdfQXBQcW5JQXhuLXJueUVXOEpLaDNOSHFIOWRfaTZRUXVhZFAzenFjOGJxODg3YnVUbVhHNWJpVGp4MkRhYUdLX04yV0xPU2c3VnBBMW5yMFhjZ3hBZXlaYWNQdXhFcXpmTXVuZlpVQ05mQXRWSjZxOWJfOVJkZDdaRG80NG5yVXRwSDctTVdoT1NreHV4U0tR?oc=5",
+              "published": "Thu, 23 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWGFld3BURjBoVWZ1ckx4WktWUUVXa0xWdDdZSzZiU2tRX2o1THg4WUFjcWpCbmdXUkRvak5IMTJmWHpSOHFGUHFzSGJsSmt2YmxjTDZrTnI2M3hUbExnbTR6SVZ1X1N2YW9OQ1BrQTgyMWlTR0ZYak84cDFtcXEwWVByMjd0Z1drV0tibTJuazl1MFoybVlFX2t1YnpjdnRja2tFaThmVEhEczZWd3hMN0ZYZjNiYUVBTVhCQjF0ak9WN1RsbE1kazQ5NFJidmV6TzVfQUVLWnnSAd4BQVVfeXFMT1Rmc0QxYmRFVjQ3Q0JoY1dBZHh3QWh5R0czcjEyZjhNY0pTT3VQbi0xNmpMLVFQSFNwVDBzRzVXd29CZ2hjU00tTDJJdmdfQXBQcW5JQXhuLXJueUVXOEpLaDNOSHFIOWRfaTZRUXVhZFAzenFjOGJxODg3YnVUbVhHNWJpVGp4MkRhYUdLX04yV0xPU2c3VnBBMW5yMFhjZ3hBZXlaYWNQdXhFcXpmTXVuZlpVQ05mQXRWSjZxOWJfOVJkZDdaRG80NG5yVXRwSDctTVdoT1NreHV4U0tR?oc=5\" target=\"_blank\">HCL Tech shares gain 3% on partnership with UAE-based DIB; IT stocks rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Business Standard</font>",
+              "source": "Business Standard",
+              "symbol": "HCLTECH.BO",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟡 HOLD"
+        },
+        "PTCL.KA": {
+          "symbol": "PTCL.KA",
+          "timestamp": "2025-11-23T12:38:05.924047",
+          "analysis_summary": {
+            "overall_sentiment": "neutral",
+            "confidence": 0.67,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 1,
+            "neutral": 2,
+            "positive_percentage": 0.0,
+            "negative_percentage": 33.3,
+            "neutral_percentage": 66.7
+          },
+          "articles": [
+            {
+              "title": "PSX downtrend enters fourth day - The Express Tribune",
+              "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5oV2cyQUFwellKMWdya1pDZjZzRHNxeG8wQ1duWmNZanAtLURwOS1YbllhaTZnazU5cXliQXRLejV0Z19LMEtyS0w4bmtGZFY0NElkSTM3QTFpLTFYNXRtVGtiVkhGZGd1NDNZczNfSXJBMjZxbHBuc0J30gGCAUFVX3lxTE9fYTRBZHFCbktpRDhnbV95em5PNGltRTdoZEdnRmFxYUw3UzRFVVRpTWx1RGpRUGtYUVY2M2hyTFRuRkpmLXR5NDh3WUJ3d0FKVS1BYWxtaHp0Q1hqRDdHTDhCbkM0Y3ktelFwdFZMdHoxanFGSnpZbk5xVGprNVAzUnc?oc=5",
+              "published": "Fri, 10 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiekFVX3lxTE5oV2cyQUFwellKMWdya1pDZjZzRHNxeG8wQ1duWmNZanAtLURwOS1YbllhaTZnazU5cXliQXRLejV0Z19LMEtyS0w4bmtGZFY0NElkSTM3QTFpLTFYNXRtVGtiVkhGZGd1NDNZczNfSXJBMjZxbHBuc0J30gGCAUFVX3lxTE9fYTRBZHFCbktpRDhnbV95em5PNGltRTdoZEdnRmFxYUw3UzRFVVRpTWx1RGpRUGtYUVY2M2hyTFRuRkpmLXR5NDh3WUJ3d0FKVS1BYWxtaHp0Q1hqRDdHTDhCbkM0Y3ktelFwdFZMdHoxanFGSnpZbk5xVGprNVAzUnc?oc=5\" target=\"_blank\">PSX downtrend enters fourth day</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">The Express Tribune</font>",
+              "source": "The Express Tribune",
+              "symbol": "PTCL.KA",
+              "headline_sentiment": "negative",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "CCP approves PTCL’s acquisition of Telenor Pakistan - Mettis Global",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQcThYcmVTa0FzQTJkbjZtUlhtLWxXRlFIZGhQTV9wZzNjUjJSdUFpc0Zpakd6VGJxYkp0Nk56cmJpY1pRZ2R2SGtoVnhFTkZOaFhFWXVMa3ZmclVtUGxyamY0MlQ5Zy1STmxXRXhheElqSWVidnU4eFZzQkFQZW93Ykowd3FhYVN2VHc?oc=5",
+              "published": "Wed, 01 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQcThYcmVTa0FzQTJkbjZtUlhtLWxXRlFIZGhQTV9wZzNjUjJSdUFpc0Zpakd6VGJxYkp0Nk56cmJpY1pRZ2R2SGtoVnhFTkZOaFhFWXVMa3ZmclVtUGxyamY0MlQ5Zy1STmxXRXhheElqSWVidnU4eFZzQkFQZW93Ykowd3FhYVN2VHc?oc=5\" target=\"_blank\">CCP approves PTCL’s acquisition of Telenor Pakistan</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Mettis Global</font>",
+              "source": "Mettis Global",
+              "symbol": "PTCL.KA",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Corvus Pharmaceuticals Eyes Phase 3 Trials: Soquelitinib's Promise In PTCL (NASDAQ:CRVS) - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLVRxZ0J3ZFdYN29BSGJWZ0NSV1FJSDZUdUdOWHc3UTVjSUNrYmk1M1ZuSExieGdUQ1I5RlNVNmRqbktYai1nOHIyQTVOWHRTWDJURHdFTFNlR0VyWVdvUHFaQzN3d0wxZ2p6Z093RU1Pbnh0bHh0b3F3Qk55U0ZFNEV4eTlwZ1hlQW82YUVsMmw2ejJtZFZid2VNTkY2RVpVSU95RWJoQ0hqamxEd2JmTDhjVXZZZ2FR?oc=5",
+              "published": "Tue, 03 Sep 2024 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiuAFBVV95cUxNLVRxZ0J3ZFdYN29BSGJWZ0NSV1FJSDZUdUdOWHc3UTVjSUNrYmk1M1ZuSExieGdUQ1I5RlNVNmRqbktYai1nOHIyQTVOWHRTWDJURHdFTFNlR0VyWVdvUHFaQzN3d0wxZ2p6Z093RU1Pbnh0bHh0b3F3Qk55U0ZFNEV4eTlwZ1hlQW82YUVsMmw2ejJtZFZid2VNTkY2RVpVSU95RWJoQ0hqamxEd2JmTDhjVXZZZ2FR?oc=5\" target=\"_blank\">Corvus Pharmaceuticals Eyes Phase 3 Trials: Soquelitinib's Promise In PTCL (NASDAQ:CRVS)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+              "source": "Seeking Alpha",
+              "symbol": "PTCL.KA",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟡 HOLD"
+        }
+      },
+      "regional_sentiment": {
+        "positive_stocks": 0,
+        "negative_stocks": 0,
+        "neutral_stocks": 5,
+        "overall_trend": "neutral"
+      }
+    },
+    "Southeast Asia": {
+      "region": "Southeast Asia",
+      "timestamp": "2025-11-23T12:38:08.951221",
+      "total_stocks": 7,
+      "stocks": {
+        "U11.SI": {
+          "symbol": "U11.SI",
+          "error": "No articles found",
+          "articles": [],
+          "timestamp": "2025-11-23T12:38:10.178702"
+        },
+        "D05.SI": {
+          "symbol": "D05.SI",
+          "timestamp": "2025-11-23T12:38:23.269803",
+          "analysis_summary": {
+            "overall_sentiment": "positive",
+            "confidence": 0.67,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 2,
+            "negative": 0,
+            "neutral": 1,
+            "positive_percentage": 66.7,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 33.3
+          },
+          "articles": [
+            {
+              "title": "DBS shares crosses $50 following target price upgrades - Yahoo Finance Singapore",
+              "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNblZkNUlXemhvaENmX2lGbUJjLVkxaHF2N29HejlFVU05RG1jaDZLUVYwc1hkUnNOcXlQT25KMUlhcjY5ZUQtbG0wa244ZzZEdVlVeVdldERILW5mUEg4OFlmUmVWSTN3X2lLOHE4V1NLb2JURS1rdnVIaFZMSllyQnB2UFdTcUU?oc=5",
+              "published": "Thu, 07 Aug 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihwFBVV95cUxNblZkNUlXemhvaENmX2lGbUJjLVkxaHF2N29HejlFVU05RG1jaDZLUVYwc1hkUnNOcXlQT25KMUlhcjY5ZUQtbG0wa244ZzZEdVlVeVdldERILW5mUEg4OFlmUmVWSTN3X2lLOHE4V1NLb2JURS1rdnVIaFZMSllyQnB2UFdTcUU?oc=5\" target=\"_blank\">DBS shares crosses $50 following target price upgrades</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+              "source": "Yahoo Finance Singapore",
+              "symbol": "D05.SI",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "3 Singapore Blue-Chip Dividend Stocks to Watch in November 2025 - Yahoo Finance Singapore",
+              "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDBnZXpnaXhEWjlTN214QUtMVUVFWlRYemNpdmZpZmpyMlRMdFpDdnN3ajJWOHJpSmlCXzJiS1VVT0JDUHBockdJcEllWGhtYkRhc2tZR0RMdlFnRnEtR3pvQ3h1UlhZNVhDUVlJWmxGZDhaMnhvanc2TkU4OG1Xc1N4ckZXUQ?oc=5",
+              "published": "Sun, 02 Nov 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihgFBVV95cUxNTDBnZXpnaXhEWjlTN214QUtMVUVFWlRYemNpdmZpZmpyMlRMdFpDdnN3ajJWOHJpSmlCXzJiS1VVT0JDUHBockdJcEllWGhtYkRhc2tZR0RMdlFnRnEtR3pvQ3h1UlhZNVhDUVlJWmxGZDhaMnhvanc2TkU4OG1Xc1N4ckZXUQ?oc=5\" target=\"_blank\">3 Singapore Blue-Chip Dividend Stocks to Watch in November 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+              "source": "Yahoo Finance Singapore",
+              "symbol": "D05.SI",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "DBS vs OCBC: Which Bank Stock Looks Stronger After the Fed Rate Cuts? - Yahoo Finance Singapore",
+              "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9qbFktd1lGNHZoZU0wZ18yVGM4d3FvY1pUSWVPWFMxZ3ZDcllOQVdCVEVpNTQzRjlBMGF4TTZqTlZjREp1eDBXZ1VZd2FhSjBPNV9lWnlJbEZuaGlya0hYbUI2QXVack1VU3lIdjBfaEZnY21Ha0c5UTJVZw?oc=5",
+              "published": "Wed, 08 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMie0FVX3lxTE9qbFktd1lGNHZoZU0wZ18yVGM4d3FvY1pUSWVPWFMxZ3ZDcllOQVdCVEVpNTQzRjlBMGF4TTZqTlZjREp1eDBXZ1VZd2FhSjBPNV9lWnlJbEZuaGlya0hYbUI2QXVack1VU3lIdjBfaEZnY21Ha0c5UTJVZw?oc=5\" target=\"_blank\">DBS vs OCBC: Which Bank Stock Looks Stronger After the Fed Rate Cuts?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+              "source": "Yahoo Finance Singapore",
+              "symbol": "D05.SI",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟢 BUY"
+        },
+        "5185.KL": {
+          "symbol": "5185.KL",
+          "timestamp": "2025-11-23T12:38:36.910931",
+          "analysis_summary": {
+            "overall_sentiment": "neutral",
+            "confidence": 1.0,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 3,
+            "positive_percentage": 0.0,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 100.0
+          },
+          "articles": [
+            {
+              "title": "Investors in AFFIN Bank Berhad (KLSE:AFFIN) have seen stellar returns of 123% over the past five years - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUpBUjA4WFJUSnBkT2w0Wk9fSWhvZUZxQi15N0g5VllPU3JzVGRrcEhwRXJuSVFQbFdlYkJhc2pkbVdBbVhwZVRaWmRZbHhaSjI2T3ZMRFhKV0Zhd0VIUVA4NlJzS0xMbmhHZDlvZVlPN0xnNTZhYUpWMXRJZXd3LUxZYUw?oc=5",
+              "published": "Mon, 29 Sep 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxOeUpBUjA4WFJUSnBkT2w0Wk9fSWhvZUZxQi15N0g5VllPU3JzVGRrcEhwRXJuSVFQbFdlYkJhc2pkbVdBbVhwZVRaWmRZbHhaSjI2T3ZMRFhKV0Zhd0VIUVA4NlJzS0xMbmhHZDlvZVlPN0xnNTZhYUpWMXRJZXd3LUxZYUw?oc=5\" target=\"_blank\">Investors in AFFIN Bank Berhad (KLSE:AFFIN) have seen stellar returns of 123% over the past five years</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "5185.KL",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Institutional investors own a significant stake of 32% in AFFIN Bank Berhad (KLSE:AFFIN) - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGN4NG10dm5JNFVMdWtRSWpsSm00VGhnZ2YtaERmclpzLXRBeHRNeVRCN1R3SnhiS1NwRzhMcG9IYnlKdENxNHgxbDVuX1liaXdoTU0tRHdSN0hwOGxqUFFycExHbGlyV1BiWHE0Y1VQd3dpQUtObENWeFNGbmlIc09ES1VqNVdVQTNUVkF6SExoWF83cUE?oc=5",
+              "published": "Mon, 30 Jun 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMilgFBVV95cUxNWGN4NG10dm5JNFVMdWtRSWpsSm00VGhnZ2YtaERmclpzLXRBeHRNeVRCN1R3SnhiS1NwRzhMcG9IYnlKdENxNHgxbDVuX1liaXdoTU0tRHdSN0hwOGxqUFFycExHbGlyV1BiWHE0Y1VQd3dpQUtObENWeFNGbmlIc09ES1VqNVdVQTNUVkF6SExoWF83cUE?oc=5\" target=\"_blank\">Institutional investors own a significant stake of 32% in AFFIN Bank Berhad (KLSE:AFFIN)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "5185.KL",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "AFFIN Bank Berhad Second Quarter 2025 Earnings: In Line With Expectations - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVll2MjB0TGFUY3ZNNmNIOGVvM3V6aVUwajF3b09vSERsMEQ2TnlZeE0yLS0yb3g3T1VyS3VJcy02NzFBb3hrWm1GUWhsa3lhZzdBeVU1dHRuSE1pTUphSzlYQXdRZDBFTk1Pa2V2Qm9rY21fUnNLSEc4V0ZlN19ZNG1fZkU?oc=5",
+              "published": "Tue, 19 Aug 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxNVll2MjB0TGFUY3ZNNmNIOGVvM3V6aVUwajF3b09vSERsMEQ2TnlZeE0yLS0yb3g3T1VyS3VJcy02NzFBb3hrWm1GUWhsa3lhZzdBeVU1dHRuSE1pTUphSzlYQXdRZDBFTk1Pa2V2Qm9rY21fUnNLSEc4V0ZlN19ZNG1fZkU?oc=5\" target=\"_blank\">AFFIN Bank Berhad Second Quarter 2025 Earnings: In Line With Expectations</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "5185.KL",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟡 HOLD"
+        },
+        "ADVANC.BK": {
+          "symbol": "ADVANC.BK",
+          "timestamp": "2025-11-23T12:38:49.486698",
+          "analysis_summary": {
+            "overall_sentiment": "positive",
+            "confidence": 0.67,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 2,
+            "negative": 0,
+            "neutral": 1,
+            "positive_percentage": 66.7,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 33.3
+          },
+          "articles": [
+            {
+              "title": "ABN AMRO Bank N.V. Buys Shares of 1,702 Advanced Micro Devices, Inc. $AMD - MarketBeat",
+              "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcG5sNHZOeXhqTldNR2lFN2NCRTVJclpPaEFPZmpCWi1pa1lqNWlhYXhwWW5ieVpKN0MtZDFLOG5xdUZKWFhvYVZOekZzejRhb0t5MWU2S2x3YXlaMjB3MHRIRTB1THVpWG5HWGdERDlhRXRlblZMcmVxQzF2SXQyaWQyQWN5UFczb005XzFMX1BELUpqbnVlY0lJSk9VSm9hb3N3YWVKaUYzeVBCSkZJTVJVVXd2Q0NxWmloT3ZPWl9RamtSWDRR?oc=5",
+              "published": "Sat, 22 Nov 2025 08:19:17 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMixwFBVV95cUxQcG5sNHZOeXhqTldNR2lFN2NCRTVJclpPaEFPZmpCWi1pa1lqNWlhYXhwWW5ieVpKN0MtZDFLOG5xdUZKWFhvYVZOekZzejRhb0t5MWU2S2x3YXlaMjB3MHRIRTB1THVpWG5HWGdERDlhRXRlblZMcmVxQzF2SXQyaWQyQWN5UFczb005XzFMX1BELUpqbnVlY0lJSk9VSm9hb3N3YWVKaUYzeVBCSkZJTVJVVXd2Q0NxWmloT3ZPWl9RamtSWDRR?oc=5\" target=\"_blank\">ABN AMRO Bank N.V. Buys Shares of 1,702 Advanced Micro Devices, Inc. $AMD</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">MarketBeat</font>",
+              "source": "MarketBeat",
+              "symbol": "ADVANC.BK",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Bank of America Securities Reiterates a Buy on Advanced Micro Devices (AMD) - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNLTRwYnRUVGhFNEpjaWg2WTlkOGNDeFdYZDVpSWxGbTM4bTVNbEEyVTVVZDJYb2Foc1FrVEwtNnMwTmlISDhGTldHcDQxS1NzSXA4Ymd2LW5laFgyQVZvRVZSLUJkSVRwNWV4dkRNcnktc1ZKYjVYRTlkQklXa29qdUN6ZnNPSllLbHdweQ?oc=5",
+              "published": "Wed, 24 Sep 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMijAFBVV95cUxNLTRwYnRUVGhFNEpjaWg2WTlkOGNDeFdYZDVpSWxGbTM4bTVNbEEyVTVVZDJYb2Foc1FrVEwtNnMwTmlISDhGTldHcDQxS1NzSXA4Ymd2LW5laFgyQVZvRVZSLUJkSVRwNWV4dkRNcnktc1ZKYjVYRTlkQklXa29qdUN6ZnNPSllLbHdweQ?oc=5\" target=\"_blank\">Bank of America Securities Reiterates a Buy on Advanced Micro Devices (AMD)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "ADVANC.BK",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "S&P 500 ends higher after strong bank earnings, chip stocks rally - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOSHptTEYwWFN2LVhhR2N1OWE3T1RCcVZxTnNNM3VDYXZ1SF9nSjFlX1VFdk0zNVJORDEtZVpvT1Y0dVJFV21nRWJwa0RjN0JUR2VLMWoxQjByYlQ5WXlSSTdhSlhVU3U2ZFdDZDlxNVpKcHBYYjVmYlo1cWwwUlJRaTJtLUxfMmVGZk1Nd3daZHdhTTg0Qkc0dWc1VGNrdVhUeG1ycDdtd3dGd1g5WUVHV2lDUlk2QQ?oc=5",
+              "published": "Wed, 15 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMitgFBVV95cUxOSHptTEYwWFN2LVhhR2N1OWE3T1RCcVZxTnNNM3VDYXZ1SF9nSjFlX1VFdk0zNVJORDEtZVpvT1Y0dVJFV21nRWJwa0RjN0JUR2VLMWoxQjByYlQ5WXlSSTdhSlhVU3U2ZFdDZDlxNVpKcHBYYjVmYlo1cWwwUlJRaTJtLUxfMmVGZk1Nd3daZHdhTTg0Qkc0dWc1VGNrdVhUeG1ycDdtd3dGd1g5WUVHV2lDUlk2QQ?oc=5\" target=\"_blank\">S&amp;P 500 ends higher after strong bank earnings, chip stocks rally</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+              "source": "Reuters",
+              "symbol": "ADVANC.BK",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟢 BUY"
+        },
+        "TRUEIT.BK": {
+          "symbol": "TRUEIT.BK",
+          "timestamp": "2025-11-23T12:38:54.677167",
+          "analysis_summary": {
+            "overall_sentiment": "neutral",
+            "confidence": 1.0,
+            "article_count": 1
+          },
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 1,
+            "positive_percentage": 0.0,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 100.0
+          },
+          "articles": [
+            {
+              "title": "Stocks to buy for short term: HDFC Bank, Suzlon Energy among 6 technical picks recommended by analysts; do you own any? - livemint.com",
+              "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPbnBDNFQ0TGVaYVJlN050QUlTM0x5OFpzSWV4aW8tVk9QRkNBS3BFOEdIclQ2NC1EbjZjVWltdmpIdUJCZndHQURpRW5HV1NINFdBeHZRaEpaN2RjWDRLSlpYOEwzSnJlM3IxcThzWEtwTnFTaUhhVXBRVmt1YnB5NHlvTENCT195OWxKTXNnU0VGakphaWhKQUdtU2ZicElnQm84cTdzeUk2STQ0UnhPeEJ0QUUzc1NxZzhCbEV2UnlRZlB5cGstV0lJQlM0c3hKLU00cDR3bmt2bUhtUjFJNUZUaHpyTlQyS3NFR3NXWVoxRHRwUVl1UGtZZTB3Z0RPMkcwYjNmMlhfYTNOSjc1Qjlhc9IBmAJBVV95cUxNSkpnWXd4OGtFRk1kQTB4LXBuNTlRb3N1enRYWEhReU4yU0ZhbFlpUDFrdGhrd25nRHZDSFJvSlZvQ211cTRzSTM0NS1qM1NxXzYtRVBKbmNEY296cDBZejFQcTByRDFqUTFHbXhZOXNER2NCYTZIUUlQbzJoRHFCS1RRVVdHRFVIalAxMkhNWDZqUTZnQ2d3b1poYmoyZXJxZUg4d2YtTDFNdzBpQUpRelJxX2xKVmRBMHNVV2JNNGFocU51QkJfb2NxZlRzUS1VMzNzNUZhTjJfME11SmlYWUpaV2Z5QXdVQ2pDZTFPRHp6U2pwYmRoSnZQYUNUa1owbTl5Ry1McGNDRU9QcGtRS3ZmSktGa3Nm?oc=5",
+              "published": "Tue, 04 Mar 2025 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMikwJBVV95cUxPbnBDNFQ0TGVaYVJlN050QUlTM0x5OFpzSWV4aW8tVk9QRkNBS3BFOEdIclQ2NC1EbjZjVWltdmpIdUJCZndHQURpRW5HV1NINFdBeHZRaEpaN2RjWDRLSlpYOEwzSnJlM3IxcThzWEtwTnFTaUhhVXBRVmt1YnB5NHlvTENCT195OWxKTXNnU0VGakphaWhKQUdtU2ZicElnQm84cTdzeUk2STQ0UnhPeEJ0QUUzc1NxZzhCbEV2UnlRZlB5cGstV0lJQlM0c3hKLU00cDR3bmt2bUhtUjFJNUZUaHpyTlQyS3NFR3NXWVoxRHRwUVl1UGtZZTB3Z0RPMkcwYjNmMlhfYTNOSjc1Qjlhc9IBmAJBVV95cUxNSkpnWXd4OGtFRk1kQTB4LXBuNTlRb3N1enRYWEhReU4yU0ZhbFlpUDFrdGhrd25nRHZDSFJvSlZvQ211cTRzSTM0NS1qM1NxXzYtRVBKbmNEY296cDBZejFQcTByRDFqUTFHbXhZOXNER2NCYTZIUUlQbzJoRHFCS1RRVVdHRFVIalAxMkhNWDZqUTZnQ2d3b1poYmoyZXJxZUg4d2YtTDFNdzBpQUpRelJxX2xKVmRBMHNVV2JNNGFocU51QkJfb2NxZlRzUS1VMzNzNUZhTjJfME11SmlYWUpaV2Z5QXdVQ2pDZTFPRHp6U2pwYmRoSnZQYUNUa1owbTl5Ry1McGNDRU9QcGtRS3ZmSktGa3Nm?oc=5\" target=\"_blank\">Stocks to buy for short term: HDFC Bank, Suzlon Energy among 6 technical picks recommended by analysts; do you own any?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">livemint.com</font>",
+              "source": "livemint.com",
+              "symbol": "TRUEIT.BK",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟡 HOLD"
+        },
+        "TLKM.JK": {
+          "symbol": "TLKM.JK",
+          "timestamp": "2025-11-23T12:39:13.006322",
+          "analysis_summary": {
+            "overall_sentiment": "neutral",
+            "confidence": 1.0,
+            "article_count": 2
+          },
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 2,
+            "positive_percentage": 0.0,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 100.0
+          },
+          "articles": [
+            {
+              "title": "IDX COMPOSITE (^JKSE) charts, data and news - Yahoo Finance Singapore",
+              "link": "https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mX0lZYjhpcmFFM1RjZnFFQklJVkRERFdGUWp5NjUxOTU2bFB0SG91eWdmRERpa3B2a3ltS09uS3FjTWhidlI4cHlYRWlPc25ER1pnaWtR?oc=5",
+              "published": "Fri, 19 May 2017 12:23:13 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiVkFVX3lxTE5mX0lZYjhpcmFFM1RjZnFFQklJVkRERFdGUWp5NjUxOTU2bFB0SG91eWdmRERpa3B2a3ltS09uS3FjTWhidlI4cHlYRWlPc25ER1pnaWtR?oc=5\" target=\"_blank\">IDX COMPOSITE (^JKSE) charts, data and news</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+              "source": "Yahoo Finance Singapore",
+              "symbol": "TLKM.JK",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "SGX launches three new depository receipts for renowned Indonesian blue chips - Yahoo Finance Singapore",
+              "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPNkNSWTVUc0psNE9mYUY4R3FhY3Zpa0tRd2piZHlHRnBwcEhtU2VBQnI2dkFSbnI4RlpfTUNsUHZkNTAxTEF5SDRxYW00U2VEZ2d3Wm1mOFZ2a0syaEhHRDQzRXJQOW1NalA5LUYtTk1TX3ZyRF84SUFuLXR5cWEyVGp2UTFOUE4tYUoyaW5SREk?oc=5",
+              "published": "Wed, 15 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMikAFBVV95cUxPNkNSWTVUc0psNE9mYUY4R3FhY3Zpa0tRd2piZHlHRnBwcEhtU2VBQnI2dkFSbnI4RlpfTUNsUHZkNTAxTEF5SDRxYW00U2VEZ2d3Wm1mOFZ2a0syaEhHRDQzRXJQOW1NalA5LUYtTk1TX3ZyRF84SUFuLXR5cWEyVGp2UTFOUE4tYUoyaW5SREk?oc=5\" target=\"_blank\">SGX launches three new depository receipts for renowned Indonesian blue chips</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance Singapore</font>",
+              "source": "Yahoo Finance Singapore",
+              "symbol": "TLKM.JK",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟡 HOLD"
+        },
+        "VNM": {
+          "symbol": "VNM",
+          "timestamp": "2025-11-23T12:39:25.263709",
+          "analysis_summary": {
+            "overall_sentiment": "positive",
+            "confidence": 0.67,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 2,
+            "negative": 0,
+            "neutral": 1,
+            "positive_percentage": 66.7,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 33.3
+          },
+          "articles": [
+            {
+              "title": "How VNM stock performs in easing cycles - Portfolio Update Report & Stepwise Trade Signal Guides - newser.com",
+              "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5RTlJzWTJLRmRwYms1N1IxZkswQXJsZTB1aTBwTC1EdkU3MW9UV0t1ZjZtVGJ4SWNUWU1Fa1hZRkRKblBaYW5Sa2dTS1VkWUZvM2pXV1FJYXAzbVpFdkFfWXliWGlHT2JjcWN2MjJXTnRKNGdwV1ptZGRDZGNOMHM?oc=5",
+              "published": "Thu, 20 Nov 2025 08:45:52 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMif0FVX3lxTE5RTlJzWTJLRmRwYms1N1IxZkswQXJsZTB1aTBwTC1EdkU3MW9UV0t1ZjZtVGJ4SWNUWU1Fa1hZRkRKblBaYW5Sa2dTS1VkWUZvM2pXV1FJYXAzbVpFdkFfWXliWGlHT2JjcWN2MjJXTnRKNGdwV1ptZGRDZGNOMHM?oc=5\" target=\"_blank\">How VNM stock performs in easing cycles - Portfolio Update Report & Stepwise Trade Signal Guides</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">newser.com</font>",
+              "source": "newser.com",
+              "symbol": "VNM",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Why (VNM) Price Action Is Critical for Tactical Trading - news.stocktradersdaily.com",
+              "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQMl9DUklWc1V1OTVMbVFCdTlyVmJQUmJQYVV6cm5kZ0xRSGJTSHUwbDhfT2szblFuSEN0UDAwN1BiSE1pYjFHZGpieWs4THF4WWpQazZpZUEzalk4aVBVVW9DQkJ2a3hpaUdkUzcwMUVoaWVSQjRycTRhZHJQTmttSzhlYlJsWXJ5SXY2N3pWYW93YlJvWHM0aTA5UVR2Q0tueHpwajNRUE9iU1UxMVh2VFpwTTUzRHRZTXVnbXVLekZ5enRqTUQxMEtZaDlxdw?oc=5",
+              "published": "Fri, 21 Nov 2025 11:06:02 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMizgFBVV95cUxQMl9DUklWc1V1OTVMbVFCdTlyVmJQUmJQYVV6cm5kZ0xRSGJTSHUwbDhfT2szblFuSEN0UDAwN1BiSE1pYjFHZGpieWs4THF4WWpQazZpZUEzalk4aVBVVW9DQkJ2a3hpaUdkUzcwMUVoaWVSQjRycTRhZHJQTmttSzhlYlJsWXJ5SXY2N3pWYW93YlJvWHM0aTA5UVR2Q0tueHpwajNRUE9iU1UxMVh2VFpwTTUzRHRZTXVnbXVLekZ5enRqTUQxMEtZaDlxdw?oc=5\" target=\"_blank\">Why (VNM) Price Action Is Critical for Tactical Trading</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">news.stocktradersdaily.com</font>",
+              "source": "news.stocktradersdaily.com",
+              "symbol": "VNM",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "VNM: Vietnam Stocks Keep Rising, Another 15% Of Upside Possible (BATS:VNM) - Seeking Alpha",
+              "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHM3a2lJWGdRS0d3TTFKNHpOUTQ2ZEZFUXVCcEJxaWFjckJwRTBaaVJFRFRqN0ZvbWdpdWtWc0dWdzQ1Rl9OQXhsSUUyZzQ4OEIwREVyU0J0RUZVUTVhWDBUdUp5U25UX01sZzlsVmdfaE5YWGF5ZEVsbGhLVVE1a2lwUW1iMUphZWRpTnhmQkhWZGNWT1oxaVYtR1V1NHZhc3BrOUlwSWZvZkNSU0E?oc=5",
+              "published": "Mon, 15 Sep 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMirgFBVV95cUxOUHM3a2lJWGdRS0d3TTFKNHpOUTQ2ZEZFUXVCcEJxaWFjckJwRTBaaVJFRFRqN0ZvbWdpdWtWc0dWdzQ1Rl9OQXhsSUUyZzQ4OEIwREVyU0J0RUZVUTVhWDBUdUp5U25UX01sZzlsVmdfaE5YWGF5ZEVsbGhLVVE1a2lwUW1iMUphZWRpTnhmQkhWZGNWT1oxaVYtR1V1NHZhc3BrOUlwSWZvZkNSU0E?oc=5\" target=\"_blank\">VNM: Vietnam Stocks Keep Rising, Another 15% Of Upside Possible (BATS:VNM)</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Seeking Alpha</font>",
+              "source": "Seeking Alpha",
+              "symbol": "VNM",
+              "headline_sentiment": "positive",
+              "headline_confidence": 1.0,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟢 BUY"
+        }
+      },
+      "regional_sentiment": {
+        "positive_stocks": 3,
+        "negative_stocks": 0,
+        "neutral_stocks": 4,
+        "overall_trend": "positive"
+      }
+    },
+    "Central Asia": {
+      "region": "Central Asia",
+      "timestamp": "2025-11-23T12:39:28.279245",
+      "total_stocks": 2,
+      "stocks": {
+        "KZRYO.KZ": {
+          "symbol": "KZRYO.KZ",
+          "error": "No articles found",
+          "articles": [],
+          "timestamp": "2025-11-23T12:39:28.676303"
+        },
+        "UZINDEX.UZ": {
+          "symbol": "UZINDEX.UZ",
+          "error": "No articles found",
+          "articles": [],
+          "timestamp": "2025-11-23T12:39:29.953526"
+        }
+      },
+      "regional_sentiment": {
+        "positive_stocks": 0,
+        "negative_stocks": 0,
+        "neutral_stocks": 2,
+        "overall_trend": "neutral"
+      }
+    },
+    "Western Asia": {
+      "region": "Western Asia",
+      "timestamp": "2025-11-23T12:39:32.982804",
+      "total_stocks": 3,
+      "stocks": {
+        "TRNFP": {
+          "symbol": "TRNFP",
+          "error": "No articles found",
+          "articles": [],
+          "timestamp": "2025-11-23T12:39:33.323566"
+        },
+        "2222.SR": {
+          "symbol": "2222.SR",
+          "timestamp": "2025-11-23T12:39:46.425617",
+          "analysis_summary": {
+            "overall_sentiment": "neutral",
+            "confidence": 1.0,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 3,
+            "positive_percentage": 0.0,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 100.0
+          },
+          "articles": [
+            {
+              "title": "Earnings To Watch: Saudi Arabian Oil Co (SAU:2222) Reports Q3 2025 Result - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ0QtTFFJRC0wQkhLS05PZlBxVC1UV0x0YXpwcWxpY0hwdm5vQndFS2o0QWRGclVyNEVjV2RubTh3WW1HRDNCRWJqY1RtVUVtRG0tN0VJaXZ3SURBd2paRTh3UE9qZVNzcG5qYlJCVWZFeVc1eWQwM08xMWlfU1pjRjBMbW4?oc=5",
+              "published": "Mon, 03 Nov 2025 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMihAFBVV95cUxPQ0QtTFFJRC0wQkhLS05PZlBxVC1UV0x0YXpwcWxpY0hwdm5vQndFS2o0QWRGclVyNEVjV2RubTh3WW1HRDNCRWJqY1RtVUVtRG0tN0VJaXZ3SURBd2paRTh3UE9qZVNzcG5qYlJCVWZFeVc1eWQwM08xMWlfU1pjRjBMbW4?oc=5\" target=\"_blank\">Earnings To Watch: Saudi Arabian Oil Co (SAU:2222) Reports Q3 2025 Result</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "2222.SR",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Saudi Aramco reports $26.9B profit in third quarter, down slightly over lower oil prices - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE4zd0Q2akFzYWdOeHhZd0RkVzdScDRRZXJKNFVyaWh4eDRnZUhENXhQTEpsYWZNUDdCQ3kyU0xJdUw0NzJwWGk1QmJETkhIYk5PenVfeDJDcV9HNjhIbGlVdHlvNDlaQzRaZlBqMEF3ajM3WC1IMGhLNmNNWG8?oc=5",
+              "published": "Mon, 03 Nov 2025 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMifEFVX3lxTE4zd0Q2akFzYWdOeHhZd0RkVzdScDRRZXJKNFVyaWh4eDRnZUhENXhQTEpsYWZNUDdCQ3kyU0xJdUw0NzJwWGk1QmJETkhIYk5PenVfeDJDcV9HNjhIbGlVdHlvNDlaQzRaZlBqMEF3ajM3WC1IMGhLNmNNWG8?oc=5\" target=\"_blank\">Saudi Aramco reports $26.9B profit in third quarter, down slightly over lower oil prices</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "2222.SR",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Is Saudi Arabian Oil Company's (TADAWUL:2222) Recent Stock Performance Influenced By Its Financials In Any Way? - simplywall.st",
+              "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSXNtc0NrMTRrdGVPZ2I2dTB4cldXbUstWGcwRmFLU3I4OEwwS3R3NjNjd0xsejBQTmVnWkhEdzJDbFJGTkZtRlR3R3c1ck4tYmY2OFNiVm1IODRwZ21iRi1YeklCWDBKLXpTWFQ0dDhJLXFNRVJmbTg2WWt3SDFaSzVmNE1WN0F3OGF0RnNEZUdrdkY4OVdLOXVzdy1UeTAtVWREVk1YTm5SV1lIRjZJd1R2ZEpyUmhTSDZhSmNFSTNURVlXNkluejNhM1VKdjFmb1dJMzRB0gHbAUFVX3lxTE9kUE5EZm5WdVFMOC1URkpxZ3lCZF9SOUlGVzNteXJzYm9yUzVnRFdaaDg4UldLdEdMTXlFSjU2RnhTdmtmMkVQWEJ1bFZpdUROTkNPdlAtZXdsd29weTZ2ODVxbl9nTHZWU3NRQ1VUYkFiN0kxTHh0MmRoMkdfcFRmRXhhYU1HaldwWUl4NHU3Q2hnZ09FdkwxMnVpLXZNMWtpLXo2d0x4S0JWV0NHelNNU0c3NnZYVEtWMWN0VWVQVXNxUV9fS19tbDNQWlBFMFR4dldxMm1nc0ZSUQ?oc=5",
+              "published": "Sun, 26 Oct 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMi1gFBVV95cUxNSXNtc0NrMTRrdGVPZ2I2dTB4cldXbUstWGcwRmFLU3I4OEwwS3R3NjNjd0xsejBQTmVnWkhEdzJDbFJGTkZtRlR3R3c1ck4tYmY2OFNiVm1IODRwZ21iRi1YeklCWDBKLXpTWFQ0dDhJLXFNRVJmbTg2WWt3SDFaSzVmNE1WN0F3OGF0RnNEZUdrdkY4OVdLOXVzdy1UeTAtVWREVk1YTm5SV1lIRjZJd1R2ZEpyUmhTSDZhSmNFSTNURVlXNkluejNhM1VKdjFmb1dJMzRB0gHbAUFVX3lxTE9kUE5EZm5WdVFMOC1URkpxZ3lCZF9SOUlGVzNteXJzYm9yUzVnRFdaaDg4UldLdEdMTXlFSjU2RnhTdmtmMkVQWEJ1bFZpdUROTkNPdlAtZXdsd29weTZ2ODVxbl9nTHZWU3NRQ1VUYkFiN0kxTHh0MmRoMkdfcFRmRXhhYU1HaldwWUl4NHU3Q2hnZ09FdkwxMnVpLXZNMWtpLXo2d0x4S0JWV0NHelNNU0c3NnZYVEtWMWN0VWVQVXNxUV9fS19tbDNQWlBFMFR4dldxMm1nc0ZSUQ?oc=5\" target=\"_blank\">Is Saudi Arabian Oil Company's (TADAWUL:2222) Recent Stock Performance Influenced By Its Financials In Any Way?</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">simplywall.st</font>",
+              "source": "simplywall.st",
+              "symbol": "2222.SR",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟡 HOLD"
+        },
+        "EMAAR.AE": {
+          "symbol": "EMAAR.AE",
+          "timestamp": "2025-11-23T12:40:00.205509",
+          "analysis_summary": {
+            "overall_sentiment": "neutral",
+            "confidence": 1.0,
+            "article_count": 3
+          },
+          "sentiment_breakdown": {
+            "positive": 0,
+            "negative": 0,
+            "neutral": 3,
+            "positive_percentage": 0.0,
+            "negative_percentage": 0.0,
+            "neutral_percentage": 100.0
+          },
+          "articles": [
+            {
+              "title": "Middle Eastern Dividend Stocks To Watch In July 2025 - Yahoo Finance",
+              "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQU05udDlEV1kwRGg2eXZFbEptYk56UEJTbE1oMThSUnhQaGJ1MVRUNjdZbld2Y0V1RWdpSHVJM2NkZy15dEt4TEtnbGVZaTE4X1I2NGFWTHd6MW9zSnh2QUp4ckNaRURRNGxUTnJMekZnTHB0Y1ZyWjRFQWkwTlVZMmlYTGUzdE9IMXc?oc=5",
+              "published": "Tue, 22 Jul 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiigFBVV95cUxQU05udDlEV1kwRGg2eXZFbEptYk56UEJTbE1oMThSUnhQaGJ1MVRUNjdZbld2Y0V1RWdpSHVJM2NkZy15dEt4TEtnbGVZaTE4X1I2NGFWTHd6MW9zSnh2QUp4ckNaRURRNGxUTnJMekZnTHB0Y1ZyWjRFQWkwTlVZMmlYTGUzdE9IMXc?oc=5\" target=\"_blank\">Middle Eastern Dividend Stocks To Watch In July 2025</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Yahoo Finance</font>",
+              "source": "Yahoo Finance",
+              "symbol": "EMAAR.AE",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Dubai shares hit near-decade high, Emaar Properties shines - Reuters",
+              "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDdNWWlFcVBhN0ZZanNIVFdPUTE2bHlIbi13UjhvNmJ2U19OR3VfdXJrWE9jVGVLOWZDR0tjZHpEd1FWTG4zSVZMQ2RSdzRBTjZSY05fWGI5dkpuOERSTDdUd2E0akZ3U29HM2FJRmtxMlRKRDBYeUlrdW5yWGdxYmlOTmhIcXZTa0FKQTI2QnhuOFNheG9pdlhBZklzcVVOd0tJ?oc=5",
+              "published": "Mon, 16 Dec 2024 08:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMiowFBVV95cUxQbDdNWWlFcVBhN0ZZanNIVFdPUTE2bHlIbi13UjhvNmJ2U19OR3VfdXJrWE9jVGVLOWZDR0tjZHpEd1FWTG4zSVZMQ2RSdzRBTjZSY05fWGI5dkpuOERSTDdUd2E0akZ3U29HM2FJRmtxMlRKRDBYeUlrdW5yWGdxYmlOTmhIcXZTa0FKQTI2QnhuOFNheG9pdlhBZklzcVVOd0tJ?oc=5\" target=\"_blank\">Dubai shares hit near-decade high, Emaar Properties shines</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Reuters</font>",
+              "source": "Reuters",
+              "symbol": "EMAAR.AE",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            },
+            {
+              "title": "Ninenty One’s Top Fund Buys UAE Stocks to Shield From Trade War - Bloomberg.com",
+              "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPY09ZMXg5RG1NZEZWeDB2b3EzZkVpd2ZNNHdFVlEzQy1vQmJSNVYwWU1pX3ZUYTlsY1pZamZjU0p6Mm9tMHdaWnRPWk0wQ2F0U19mWll3ZDExUnpRUnVmS0tma2FKZ1JJN19SQlkzWF9DMUxLbjVwclo1ZFdpRjZPTmxxaXl0U3JWdFl6aDVTMjNRVVpxeUFSbDVJMExEaUtYOThzR3ZaU3BHaGdDRFNZTFJBdHo?oc=5",
+              "published": "Mon, 17 Mar 2025 07:00:00 GMT",
+              "summary": "<a href=\"https://news.google.com/rss/articles/CBMitAFBVV95cUxPY09ZMXg5RG1NZEZWeDB2b3EzZkVpd2ZNNHdFVlEzQy1vQmJSNVYwWU1pX3ZUYTlsY1pZamZjU0p6Mm9tMHdaWnRPWk0wQ2F0U19mWll3ZDExUnpRUnVmS0tma2FKZ1JJN19SQlkzWF9DMUxLbjVwclo1ZFdpRjZPTmxxaXl0U3JWdFl6aDVTMjNRVVpxeUFSbDVJMExEaUtYOThzR3ZaU3BHaGdDRFNZTFJBdHo?oc=5\" target=\"_blank\">Ninenty One’s Top Fund Buys UAE Stocks to Shield From Trade War</a>&nbsp;&nbsp;<font color=\"#6f6f6f\">Bloomberg.com</font>",
+              "source": "Bloomberg.com",
+              "symbol": "EMAAR.AE",
+              "headline_sentiment": "neutral",
+              "headline_confidence": 0.5,
+              "content_sentiment": "neutral",
+              "content_confidence": 0.5,
+              "full_content": "Google News",
+              "scraping_method": "firecrawl",
+              "key_phrases": []
+            }
+          ],
+          "recommendation": "🟡 HOLD"
+        }
+      },
+      "regional_sentiment": {
+        "positive_stocks": 0,
+        "negative_stocks": 0,
+        "neutral_stocks": 3,
+        "overall_trend": "neutral"
+      }
+    }
+  }
+}

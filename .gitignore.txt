@@ -1,0 +1,8 @@
+.\agents\__pycache__
+.\agents\vector_store
+.\agents\.env
+.\agents\llm_cache.json
+.\agents\morning_brief_20251119_171617.json
+.\agents\multi_region_results_20251119_165504.json
+.\agents\regional_sentiment_20251119_171145.json
+.\orchestrator\__pycache__
