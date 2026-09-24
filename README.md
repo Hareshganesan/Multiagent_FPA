@@ -656,9 +656,7 @@ Contributions welcome! Please follow:
 
 ## Author
 
-**Your Name**
-
-- GitHub: [@Hemanth31052006](https://github.com/Hemanth31052006)
+Ganesan P V
 - GitHub: [@Hareshganesan](https://github.com/Hareshganesan)
 
 ---
